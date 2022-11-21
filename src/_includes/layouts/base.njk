@@ -19,14 +19,7 @@
       <meta property="og:image:alt" content="Page image for {{ title }}" />
       <meta name="twitter:image:alt" content="Page image for {{ title }}" />
     {% endif %}
-    
-    <style>
-      :root {
-        --color-primary: {{ site.primaryColor }};
-        --color-secondary: {{ site.secondaryColor }};
-      }
-      {% include "css/main.css" %}
-    </style>
+  
 
      <link rel="stylesheet" href="{{ '/scss/tailwind.css' | url }}">
 
@@ -36,7 +29,7 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
   </head>
   <body class="{{bodyClass}} border-solid border-red-900 border-8">
-    <header class="l-header">
+    <header class="flex">
         {% include "components/navigation.njk" %}
     </header>
 
