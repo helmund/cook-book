@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Abril Fatface", "cursive"],
-        serif: ["Poppins", "sans-serif"],
+        serif: ["Abril Fatface", "cursive"],
+        "sans-serif": ["Poppins", "sans-serif"],
       },
     },
   },
