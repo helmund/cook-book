@@ -5,3 +5,7 @@
 a {
     @apply text-red-600
 }
+
+h1 {
+    @apply font-sans
+}

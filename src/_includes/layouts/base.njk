@@ -8,6 +8,10 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 105 55%22><text y=%22.9em%22 font-size=%2275%22>🍽️</text></svg>">
     <meta property="og:title" content="{{ metaTitle or title }} - {{ site.name }}" />
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins&display=swap" rel="stylesheet">
+
     {% if image %}
       <meta property="og:image" content="{{ site.baseURL }}{{ image }}" />
       <meta name="twitter:card" content="summary_large_image">
@@ -24,7 +28,7 @@
       {% include "css/main.css" %}
     </style>
 
-     <link rel="stylesheet" href="{{ 'scss/tailwind.css' | url }}">
+     <link rel="stylesheet" href="{{ '/scss/tailwind.css' | url }}">
 
      
 

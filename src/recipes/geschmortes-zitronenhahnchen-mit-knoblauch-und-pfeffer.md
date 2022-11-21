@@ -18,6 +18,7 @@ ingredients:
   - 1 EL Olivenol
   - 1 kleine Prise Zucker
   - schwarzer Pfeffer aus der Mühle
+time: 15min
 ---
 
 ZUBEREITUNGSZEIT 15 MINUTEN PLUS 60 MINUTEN GARZEIT
