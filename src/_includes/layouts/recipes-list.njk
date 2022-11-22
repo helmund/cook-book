@@ -4,10 +4,12 @@
     <main>
         <section>
             <div class="">
-                <h1>{{ selectedTag }}{{ title }}</h1>
+                {% if recipe.data.tags|length %}
+                    <h1>{{ selectedTag }}{{ title }}</h1>
 
-                {% if not selectedTag %}
-                    {% include 'components/taglist.njk' %}
+                    {% if not selectedTag %}
+                        {% include 'components/taglist.njk' %}
+                    {% endif %}
                 {% endif %}
             </div>
         </section>
@@ -15,22 +17,25 @@
             <div class="">
                 <ul class="">
                     {% for recipe in collections.recipes %}
-                        {% if not selectedTag or selectedTag in recipe.data.tags %} {# If we don't have a selectedTag, we are on the all recipes page #}
-                        <li>
-                            {% recipeimage recipe.data.image, "class", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
-                            {% for tag in recipe.data.tags %}
-                                <abbr class="" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
-                            {% endfor %}
-                            {% if recipe.data.time %}
-                                <div class="">
-                                    {% include 'icons/time.svg' %}
-                                    {{ recipe.data.time }}
-                                </div>
+                        {% if recipe.data.tags|length %}
+                        
+                            {% if not selectedTag or selectedTag in recipe.data.tags %}
+                            <li>
+                                {% recipeimage recipe.data.image, "class", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                                {% for tag in recipe.data.tags %}
+                                    <abbr class="" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>
+                                {% endfor %}
+                                {% if recipe.data.time %}
+                                    <div class="">
+                                        {% include 'icons/time.svg' %}
+                                        {{ recipe.data.time }}
+                                    </div>
+                                {% endif %}
+                                <a class="" href="{{ recipe.url }}">
+                                    <h3 class="">{{ recipe.data.title }}</h3>
+                                </a>
+                            </li>
                             {% endif %}
-                            <a class="" href="{{ recipe.url }}">
-                                <h3 class="">{{ recipe.data.title }}</h3>
-                            </a>
-                        </li>
                         {% endif %}
                     {% endfor %}
                 </ul>
