@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-a {
-    @apply text-red-600
-}
 
 h1 {
     @apply font-sans

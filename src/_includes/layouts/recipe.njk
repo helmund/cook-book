@@ -10,27 +10,31 @@
                     <a class="" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
                 {% endfor %}
             </div>
-            <div class="flex">
-                <div class="" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
+            <div class="flex gap-4">
+                <div class="lg:w-4/12" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
                     {% if time or not servings == "" %}
                         <div class="">
                             {% if time %}
                                 <p>{% include "icons/time.svg" %}{{ time }}</p>
                             {% endif %}
                             {% if not servings == "" %}
-                                <p>
+                                <p class="flex items-center">
                                     <template x-if="currentServings > 1">
-                                        <button @click="currentServings -= 1" class="c-recipe__serving-button">
-                                            -
-                                            <span class="u-sr-only">Remove 1 serving</span>
+                                        <button @click="currentServings -= 1" class="group">
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 group-hover:fill-slate-400 transition-colors">
+                                                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                            </svg>
+                                            <span class="sr-only">Remove 1 serving</span>
                                         </button>
                                     </template>
-                                    <span x-text="currentServings"></span>
-                                    <button @click="currentServings += 1" class="c-recipe__serving-button">
-                                        +
-                                        <span class="u-sr-only">Add 1 serving</span>
+                                    <span x-text="currentServings" class=" px-2"></span>
+                                    <button @click="currentServings += 1" class="group">
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6  group-hover:fill-slate-400 transition-colors">
+                                          <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v6m3-3H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                        </svg>
+                                        <span class="sr-only">Add 1 serving</span>
                                     </button>
-                                    <span>{{ site.servingsLabel }}</span>
+                                    <span class="pl-2">{{ site.servingsLabel }}</span>
                                 </p>
                             {% endif %}
                         </div>
@@ -54,7 +58,7 @@
                     </template>
                 </div>
 
-                <div class="">
+                <div class="lg:w-8/12">
                     {% if sourceLabel and sourceURL %}
                         <p>Source : <a href="{{ sourceURL }}" target="_blank" rel="noopener">{{ sourceLabel }}</a></p>
                     {% endif %}

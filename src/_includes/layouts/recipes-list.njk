@@ -1,7 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-    <main>
+    <main class="">
         <section>
             <div class="">
                 {% if recipe.data.tags|length %}
@@ -15,12 +15,12 @@
         </section>
         <section class="">
             <div class="">
-                <ul class="">
+                <ul class="grid gap-4 grid-cols-3">
                     {% for recipe in collections.recipes %}
                         {% if recipe.data.tags|length %}
                         
                             {% if not selectedTag or selectedTag in recipe.data.tags %}
-                            <li>
+                            <li class="border border-red-200 rounded-sm">
                                 {% recipeimage recipe.data.image, "class", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
                                 {% for tag in recipe.data.tags %}
                                     <abbr class="" title="{{ tag | noEmoji }}">{{ tag | onlyEmoji | safe }}</abbr>

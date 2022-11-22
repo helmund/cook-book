@@ -33,9 +33,9 @@
         {% include "components/navigation.njk" %}
     </header>
 
-    <main>
+    <main class="prose mx-auto max-w-5xl">
         {% block content %}
-            <div class="l-container">
+            <div class="">
                 <h1>{{title}}</h1>
                 {{content | safe}}
             </div>
