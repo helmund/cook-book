@@ -7,7 +7,7 @@
     "dev:css": "tailwindcss -i src/scss/tailwind.css -o _site/scss/tailwind.css --watch --postcss",
     "dev:11ty": "eleventy --serve",
     "dev": "npm-run-all --parallel dev:css dev:11ty",
-    "prod:css": "sass src/scss/main.scss:src/_includes/css/main.css --style=compressed",
+    "prod:css": "tailwindcss -i src/scss/tailwind.css -o _site/scss/tailwind.css --minify",
     "prod:11ty": "eleventy",
     "build": "npm-run-all prod:css prod:11ty"
   },
