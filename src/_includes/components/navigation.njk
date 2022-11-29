@@ -1,26 +1,26 @@
 <nav class="flex w-full">
-  <ul class="flex flex-1 items-center justify-between">
+  <ul class="flex flex-1 items-center justify-between list-none	">
     {% for navItem in nav.items %}
-    <li>
-      {% if navItem.url == "/" %}
-      <a href="/" class="">
-        <span class="">{% include "icons/logo.svg" %}</span>
-        <span class=" {{ 'text-red-600' if page.url == '/' }}">{{
+      <li>
+        {% if navItem.url == "/" %}
+          <a href="/" class="">
+            <span class="">{% include "icons/logo.svg" %}</span>
+            <span class="sr-only {{ 'text-red-600' if page.url == '/' }}">{{
           navItem.text
         }}</span>
-      </a>
-      {% else%}
-      <a
+          </a>
+          {% else%}
+          <a
         href="{{ navItem.url }}"
         class=" {{ 'text-red-600' if page.url == navItem.url }}"
         >{{ navItem.text }}</a
       >
-      {% endif %}
-    </li>
+        {% endif %}
+      </li>
     {% endfor %}
-  </ul>
-  <div x-data="{ searchOpen: false }">
-    <button
+    <li x-data="{ searchOpen: false }">
+
+      <button
       class="c-search__search-toggle"
       @click="
             searchOpen = !searchOpen;
@@ -28,12 +28,14 @@
             ));
         "
     >
-      <span class="sr-only">Search</span>
-      <span x-show="!searchOpen">{% include "icons/search.svg" %}</span>
-      <span x-show="searchOpen" x-cloak>{% include "icons/close.svg" %}</span>
-    </button>
-    <div x-show="searchOpen" @click.away="searchOpen = false" x-cloak>
-      {% include "components/search.njk" %}
-    </div>
-  </div>
+        <span class="sr-only">Search</span>
+        <span x-show="!searchOpen">{% include "icons/search.svg" %}</span>
+        <span x-show="searchOpen" x-cloak>{% include "icons/close.svg" %}</span>
+      </button>
+      <div x-show="searchOpen" @click.away="searchOpen = false" class="not-prose" x-cloak>
+        {% include "components/search.njk" %}
+      </div>
+    </li>
+  </ul>
+  <div></div>
 </nav>
