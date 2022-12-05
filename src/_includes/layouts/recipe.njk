@@ -5,30 +5,35 @@ bodyClass: prose mx-auto max-w-5xl
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-    {% recipeimage image, "c-recipe__header-image", title, "100vw" %}
-    <h1 class="font-sans">{{ title }}</h1>
+    <div class="-mx-4 lg:-mx-8">
+        {% recipeimage image,
+        "",
+        title,
+        "100vw" %}
+    </div>
+    <h1 class="font-serif">{{ title }}</h1>
     <section>
         <div class="">
-            {% if tags|length %}    
-                <div class="">
+            {% if tags | length %}
+                <div class="flex overflow-x-scroll py-6 mr-6 gap-4">
                     {% for tag in tags %}
-                        <a class="" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
+                        <a class=" no-underline text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 whitespace-nowrap bg-green-200 text-green-700 rounded-full c-tag__tag--selected" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
                     {% endfor %}
                 </div>
             {% endif %}
-            <div class="flex gap-4">
-                <div class="lg:w-4/12" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
+            <div class="md:flex gap-4">
+                <div class="md:w-5/12 lg:w-4/12" x-data='{currentServings: {{ servings if not servings == "" else false }}, ingredients: "{{ ingredients | arrayToString }}".split("£") }'>
                     {% if time or not servings == "" %}
                         <div class="">
                             {% if time %}
-                                <p>{% include "icons/time.svg" %}{{ time }}</p>
+                                <span class="w-4 h-4">{% include "icons/time.svg" %}{{ time }}</span>
                             {% endif %}
                             {% if not servings == "" %}
                                 <p class="flex items-center">
                                     <template x-if="currentServings > 1">
                                         <button @click="currentServings -= 1" class="group">
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 group-hover:fill-slate-400 transition-colors">
-                                                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                             </svg>
                                             <span class="sr-only">Remove 1 serving</span>
                                         </button>
@@ -36,7 +41,7 @@ bodyClass: prose mx-auto max-w-5xl
                                     <span x-text="currentServings" class=" px-2"></span>
                                     <button @click="currentServings += 1" class="group">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6  group-hover:fill-slate-400 transition-colors">
-                                          <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v6m3-3H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v6m3-3H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                         </svg>
                                         <span class="sr-only">Add 1 serving</span>
                                     </button>
@@ -64,10 +69,12 @@ bodyClass: prose mx-auto max-w-5xl
                     </template>
                 </div>
 
-                <div class="lg:w-8/12">
+                <div class="md:w-7/12 lg:w-8/12">
                     {% if sourceLabel and sourceURL %}
-                        <p>Source : <a href="{{ sourceURL }}" target="_blank" rel="noopener">{{ sourceLabel }}</a></p>
+                        <p>Source : <a href="{{ sourceURL }}" target="_blank" rel="noopener">{{ sourceLabel }}</a>
+                        </p>
                     {% endif %}
+                    <h3 class="md:hidden">Zubereitung</h3>
                     {{ content | safe }}
                 </div>
             </div>
@@ -75,7 +82,7 @@ bodyClass: prose mx-auto max-w-5xl
     </section>
 
     <script>
-        function adaptQuantity (ingredient, originalServings, currentServings) {
+        function adaptQuantity(ingredient, originalServings, currentServings) {
             return ingredient.replace(/(\d|\.|,)+/, match => Number(Math.round(parseFloat(match) * currentServings / originalServings + 'e' + 2) + 'e-' + 2));
         }
     </script>

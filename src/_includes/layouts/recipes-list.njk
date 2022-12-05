@@ -8,12 +8,10 @@ bodyClass: mx-auto max-w-5xl
     <main class="no-prose">
         <section>
             <div class="">
-                {% if recipe.data.tags|length %}
-                    <h1>{{ selectedTag }}{{ title }}</h1>
+                <h1>{{ selectedTag }}{{ title }}</h1>
 
-                    {% if not selectedTag %}
-                        {% include 'components/taglist.njk' %}
-                    {% endif %}
+                {% if not selectedTag %}
+                    {% include 'components/taglist.njk' %}
                 {% endif %}
             </div>
         </section>
@@ -21,32 +19,37 @@ bodyClass: mx-auto max-w-5xl
             <div class="">
                 <ul class="grid gap-4 grid-cols-3">
                     {% for recipe in collections.recipes %}
-                        {% if recipe.data.tags|length %}
-                        
+                        {% if recipe.data.tags | length %}
+
                             {% if not selectedTag or selectedTag in recipe.data.tags %}
-                            <li class="border border-red-200 rounded-sm group">
-                                <div class="relative">
-                                    {% recipeimage recipe.data.image, "my-0", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
-                                    <div class="absolute inset-0 flex items-center flex-col opacity-0 group-hover:opacity-100 transition-all">
-                                        <div class="absolute inset-0 backdrop-blur bg-slate-800 opacity-80"></div>
-                                        <div class="absolute inset-0 p-4 text-white">
-                                            {% if recipe.data.time %}
-                                                <div class="">
-                                                    {% include 'icons/time.svg' %}
-                                                    {{ recipe.data.time }}
-                                                </div>
-                                            {% endif %}
-                                            <a class="" href="{{ recipe.url }}">
-                                                <h3 class="font-serif text-xl">{{ recipe.data.title }}</h3>
-                                            </a>
+                                <li class="border border-red-200 rounded-sm group">
+                                    <div class="relative">
+                                        {% recipeimage recipe.data.image, "my-0", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                                        <div class="absolute inset-0 flex items-center flex-col transition-all">
+                                            <div class="absolute inset-0 backdrop-blur bg-slate-800 opacity-60 group-hover:opacity-0 transition-all"></div>
+                                            <div class="absolute inset-0 p-4 text-white  group-hover:opacity-0 transition-all flex flex-col justify-between">
+                                                <h3 class="text-xl tracking-wider font-semibold font-serif">
+                                                    <a class="" href="{{ recipe.url }}">
+                                                        <span class="absolute inset-0"></span>
+                                                        {{ recipe.data.title }}</a>
+                                                </h3>
+                                                {% if recipe.data.time %}
+                                                    <div class=" flex items-center text-xs">
+                                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 mr-1">
+                                                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm.75-13a.75.75 0 00-1.5 0v5c0 .414.336.75.75.75h4a.75.75 0 000-1.5h-3.25V5z" clip-rule="evenodd"/>
+                                                        </svg>
+
+                                                        {{ recipe.data.time }}
+                                                    </div>
+                                                {% endif %}
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                
-                                {# {% for tag in recipe.data.tags %}
+
+                                    {# {% for tag in recipe.data.tags %}
                                     <abbr class="" title="{{ tag | noEmoji }}">{{ tag | noEmoji | safe }}</abbr>
                                 {% endfor %} #}
-                            </li>
+                                </li>
                             {% endif %}
                         {% endif %}
                     {% endfor %}
@@ -58,7 +61,7 @@ bodyClass: mx-auto max-w-5xl
                 <div class="">
                     {% include 'components/taglist.njk' %}
                 </div>
-            </section>  
+            </section>
         {% endif %}
     </main>
 {% endblock %}

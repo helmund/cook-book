@@ -2,7 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: none;
+    text-shadow: 1px 1px 1px rgb(0 0 0 / 0%);
+}
+
 
 h1 {
-    @apply font-sans
+    @apply font-serif;
 }

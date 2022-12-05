@@ -6,40 +6,37 @@
     <title>{{ metaTitle or title }} - {{ site.name }}</title>
     <meta name="description" content="{{ metaDescription or site.metaDescription }}">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 105 55%22><text y=%22.9em%22 font-size=%2275%22>🍽️</text></svg>">
-    <meta property="og:title" content="{{ metaTitle or title }} - {{ site.name }}" />
+    <meta property="og:title" content="{{ metaTitle or title }} - {{ site.name }}"/>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Poppins&display=swap" rel="stylesheet">
 
     {% if image %}
-      <meta property="og:image" content="{{ site.baseURL }}{{ image }}" />
+      <meta property="og:image" content="{{ site.baseURL }}{{ image }}"/>
       <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:image" content="{{ site.baseURL }}{{ image }}" />
-      <meta property="og:image:alt" content="Page image for {{ title }}" />
-      <meta name="twitter:image:alt" content="Page image for {{ title }}" />
+      <meta name="twitter:image" content="{{ site.baseURL }}{{ image }}"/>
+      <meta property="og:image:alt" content="Page image for {{ title }}"/>
+      <meta name="twitter:image:alt" content="Page image for {{ title }}"/>
     {% endif %}
-  
 
-     <link rel="stylesheet" href="{{ '/scss/tailwind.css' | url }}">
-
-     
+    <link rel="stylesheet" href="{{ '/scss/tailwind.css' | url }}">
 
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
   </head>
   <body class="{{bodyClass}} font-sans-serif">
     <header class="flex mx-auto max-w-5xl">
-        {% include "components/navigation.njk" %}
+      {% include "components/navigation.njk" %}
     </header>
 
-    <main class="mx-auto max-w-5xl">
-        {% block content %}
-            <div class="">
-                <h1>{{title}}</h1>
-                {{content | safe}}
-            </div>
-        {% endblock content %}
+    <main class="mx-auto max-w-5xl px-4 lg:px-8">
+      {% block content %}
+        <div class="">
+          <h1>{{title}}</h1>
+          {{content | safe}}
+        </div>
+      {% endblock content %}
     </main>
 
     <footer class="l-footer">

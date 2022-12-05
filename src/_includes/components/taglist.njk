@@ -1,15 +1,19 @@
 <nav>
-    <ul class="c-tags">
+    <ul class="flex overflow-x-scroll py-6 mr-6 gap-4">
         {% if page.fileSlug == "recipes" %}
-            <li class="c-tags__tag c-tag__tag--selected">{{ title }}{{ allRecipesLabel }}</li>
+            <li class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 whitespace-nowrap bg-green-200 text-green-700 rounded-full c-tag__tag--selected">{{ title }}{{ allRecipesLabel }}</li>
         {% else %}
-            <li><a class="c-tags__tag" href="/recipes">{{ title }}{{ allRecipesLabel }}</a></li>
+            <li>
+                <a class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 whitespace-nowrap bg-green-200 text-green-700 rounded-full" href="/recipes">{{ title }}{{ allRecipesLabel }}</a>
+            </li>
         {% endif %}
         {% for tagItem in collections.tagList %}
             {% if selectedTag == tagItem %}
-                <li class="c-tags__tag c-tag__tag--selected">{{ tagItem }}</li>
+                <li class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 whitespace-nowrap bg-green-200 text-green-700 rounded-full c-tag__tag--selected">{{ tagItem }}</li>
             {% else %}
-                <li><a class="c-tags__tag" href="/tags/{{ tagItem | noEmoji | slug }}">{{ tagItem }}</a></li>
+                <li>
+                    <a class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 whitespace-nowrap bg-green-200 text-green-700 rounded-full" href="/tags/{{ tagItem | noEmoji | slug }}">{{ tagItem }}</a>
+                </li>
             {% endif %}
         {% endfor %}
     </ul>
