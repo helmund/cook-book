@@ -4,7 +4,7 @@ image: /img/recipes/coconut-lentil-soup.jpg
 tags:
   - Soup 🥣
   - Vegetarian 🌿
-  - Vegan 🌱
+  - Vegan
 sourceLabel: Bon Appétit
 sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
 servings: 2

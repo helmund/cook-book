@@ -9,20 +9,17 @@ tags:
 - Family
 - unter 650 Kalorien
 ingredients:
-- 250g Seelachs
-- 1Stück Gurke
-- 10g Schnittlauch
-- 1Stück Frühlingszwiebel
-- 1Stück Zitrone, gewachst
-- 10ml mittelscharfer Senf
-- 500g vorw. festk. Kartoffeln
-- 100g Radieschen
-- 100g Schmand
-- 2Esslöffel Öl*
-- 2Esslöffel Olivenöl*
-- nullnach Geschmack Zucker*
-- nullnach Geschmack Salz*
-- nullnach Geschmack Pfeffer*
+- 250 g Seelachs
+- 1 Stück Gurke
+- 10 g Schnittlauch
+- 1 Stück Frühlingszwiebel
+- 1 Stück Zitrone, gewachst
+- 10 ml mittelscharfer Senf
+- 500 g vorw. festk. Kartoffeln
+- 100 g Radieschen
+- 100 g Schmand
+- 2 Esslöffel Öl*
+- 2 Esslöffel Olivenöl*
 ---
 
 - Erhitze reichlich Wasser im Wasserkocher. Kartoffeln schälen, halbieren und in 1 cm breite Scheiben schneiden. Einen Topf mit heißem Wasser füllen, aufkochen lassen, salzen\* und Kartoffelscheiben darin ca. 8 Min. weich köcheln lassen.  In der Zwischenzeit Gemüse schneiden.

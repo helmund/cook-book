@@ -9,18 +9,16 @@ tags:
 - Family
 - unter 650 Kalorien
 ingredients:
-- vegane Mini-Maultaschen
-- rote Zwiebel
-- Austernpilze
-- Kochsahne
-- Frühlingszwiebel
-- Gewürzmischung „Hello Paprika“
-- Karotte
-- Worcester Sauce
-- Öl*
-- Wasser*
-- Pfeffer*
-- Salz*
+- 400 g vegane Mini-Maultaschen
+- 1 Stück rote Zwiebel
+- 150 g Austernpilze
+- 150 g Kochsahne
+- 1 Stück Frühlingszwiebel
+- 4 g Gewürzmischung „Hello Paprika“
+- 2 Stück Karotte
+- 8 ml Worcester Sauce
+- 2 Esslöffel Öl*
+- 50 ml Wasser*
 ---
 
 - Zwiebel abziehen, halbieren und in dünne Streifen schneiden.  Bei mittlerer Hitze 1 EL [1,5 EL | 2 EL] Öl\* in einer großen Pfanne erhitzen und Zwiebelstreifen darin 6 – 7 Min. anbraten, bis diese weich und gebräunt sind. Tipp: Zwiebelstreifen beim Braten mit einer Prise Salz\* abschmecken, dann bräunen sie schneller.  Zwiebelstreifen in eine kleine Schüssel umfüllen und kurz beiseitestellen.
