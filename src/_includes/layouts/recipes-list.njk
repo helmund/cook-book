@@ -5,10 +5,11 @@ bodyClass: mx-auto max-w-5xl
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
+
     <main class="no-prose">
         <section>
             <div class="">
-                <h1>{{ selectedTag }}{{ title }}</h1>
+                <h1 class="font-serif text-2xl text-slate-800 text-center my-8">{{ selectedTag }}{{ title }}</h1>
 
                 {% if not selectedTag %}
                     {% include 'components/taglist.njk' %}
@@ -63,5 +64,11 @@ bodyClass: mx-auto max-w-5xl
                 </div>
             </section>
         {% endif %}
+
+        <div class="p-10 flex justify-center">
+            {% include 'components/random-button.njk' %}
+        </div>
+
     </main>
+
 {% endblock %}
