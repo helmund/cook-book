@@ -1,6 +1,7 @@
 ---
 title: Sesam-Hähnchen mit Hoisin-Erdnuss-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/sesam-hahnchen-mit-hoisin-erdnuss-sosze-3d0d6783.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/sesam-hahnchen-mit-hoisin-erdnuss-sosze-6346942f491af7598c0739fc
 servings: 2
 time: PT45M

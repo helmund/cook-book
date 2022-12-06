@@ -1,6 +1,7 @@
 ---
 title: Pikanter Piri-Piri-Grillkäse-Wrap
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pikanter-piri-piri-grillkase-wrap-47b225b4.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pikanter-piri-piri-grillkase-wrap-63319297dd7cea616307c4fc
 servings: 2
 time: PT35M

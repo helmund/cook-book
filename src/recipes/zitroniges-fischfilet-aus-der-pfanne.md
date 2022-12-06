@@ -1,6 +1,7 @@
 ---
 title: Zitroniges Fischfilet aus der Pfanne
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/zitroniges-fischfilet-aus-der-pfanne-e231cd00.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/zitroniges-fischfilet-aus-der-pfanne-62f675978a89bc75b1047af4
 servings: 2
 time: PT35M

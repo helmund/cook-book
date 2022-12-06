@@ -1,6 +1,7 @@
 ---
 title: Gebackener Ofenkäse im Kräuter-Ringbrot
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gebackener-ofenkase-im-krauter-ringbrot-a3c4a503.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gebackener-ofenkase-im-krauter-ringbrot-632c3cb756e2fed94408d8ac
 servings: 2
 time: PT25M

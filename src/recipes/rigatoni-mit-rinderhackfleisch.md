@@ -1,6 +1,7 @@
 ---
 title: Rigatoni mit Rinderhackfleisch
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rigatoni-mit-rinderhackfleisch-541b3bb2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rigatoni-mit-rinderhackfleisch-62fbdf69cffffb46e006c074
 servings: 2
 time: PT25M

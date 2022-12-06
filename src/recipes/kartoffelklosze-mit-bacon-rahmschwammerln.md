@@ -1,6 +1,7 @@
 ---
 title: Kartoffelklöße mit Bacon-Rahmschwammerln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/kartoffelklosze-mit-bacon-rahmschwammerln-091a0481.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/kartoffelklosze-mit-bacon-rahmschwammerln-631a02a8837df2d6af04e5b9
 servings: 2
 time: PT35M

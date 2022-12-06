@@ -1,6 +1,7 @@
 ---
 title: Rote-Beete-Gnocchi in Bacon-Sahnesoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rote-beete-gnocchi-in-bacon-sahnesosze-98bf6e1b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rote-beete-gnocchi-in-bacon-sahnesosze-632c3d7c683f4229430e351b
 servings: 2
 time: PT15M

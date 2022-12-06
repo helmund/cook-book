@@ -1,6 +1,7 @@
 ---
 title: Fiorelli! Pastataschen mit Pilzfüllung
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fiorelli-pastataschen-mit-pilzfullung-7b559a55.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fiorelli-pastataschen-mit-pilzfullung-63282e36a3a156c3b909e2ec
 servings: 2
 time: PT35M

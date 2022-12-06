@@ -1,6 +1,7 @@
 ---
 title: Halloween Burger Bundle
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/halloween-burger-bundle-mit-kase-vegan-patty-8045a964.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/halloween-burger-bundle-mit-kase-vegan-patty-6320927c163cb29aa402e771
 servings: 2
 time: PT160M

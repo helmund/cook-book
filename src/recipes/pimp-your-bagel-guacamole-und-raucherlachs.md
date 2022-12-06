@@ -1,6 +1,7 @@
 ---
 title: Bagel Bundle mit Räucherlachs und Guacamole
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pimp-your-bagel-guacamole-und-raucherlachs-58b51d93.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pimp-your-bagel-guacamole-und-raucherlachs-63208419639d32e9c805ed82
 servings: 2
 time: PT06M

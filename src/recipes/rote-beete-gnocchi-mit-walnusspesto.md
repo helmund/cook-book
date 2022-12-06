@@ -1,6 +1,7 @@
 ---
 title: Rote-Beete-Gnocchi mit Walnusspesto
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rote-beete-gnocchi-mit-walnusspesto-64889e1a.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rote-beete-gnocchi-mit-walnusspesto-62f6758133a206bff406343c
 servings: 2
 time: PT35M

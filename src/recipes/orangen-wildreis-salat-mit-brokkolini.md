@@ -1,6 +1,7 @@
 ---
 title: Orangen-Wildreis-Salat mit Brokkolini
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/orangen-wildreis-salat-mit-brokkolini-649bdb62.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/orangen-wildreis-salat-mit-brokkolini-632c3d2a676229ca200361af
 servings: 2
 time: PT40M

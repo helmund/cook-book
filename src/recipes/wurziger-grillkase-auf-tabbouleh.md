@@ -1,6 +1,7 @@
 ---
 title: Würziger Grillkäse auf Tabbouleh
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/wurziger-grillkase-auf-tabbouleh-3d847054.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/wurziger-grillkase-auf-tabbouleh-631b5b45b1c12ea92a0439e6
 servings: 2
 time: PT35M

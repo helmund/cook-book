@@ -1,6 +1,7 @@
 ---
 title: Büffelmozzarella auf Antipasti-Gemüse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/buffelmozzarella-auf-antipasti-gemuse-34cf709d.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/buffelmozzarella-auf-antipasti-gemuse-633192a24d9a45067f0ee4d2
 servings: 2
 time: PT35M

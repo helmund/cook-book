@@ -1,6 +1,7 @@
 ---
 title: Vegane Bratwurst mit Zwiebelsoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rauchige-vegane-bratwurst-mit-zwiebelsosze-730a98ca.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rauchige-vegane-bratwurst-mit-zwiebelsosze-630cb74696f303fa4302ff2c
 servings: 2
 time: PT35M

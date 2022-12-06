@@ -1,6 +1,7 @@
 ---
 title: Gnocchi in Blauschimmelsoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gnocchi-in-cremesosze-aus-blauschimmelkase-birne-65d3dbdc.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gnocchi-in-cremesosze-aus-blauschimmelkase-birne-62fbdf4fc1d484735d0d88dd
 servings: 2
 time: PT15M

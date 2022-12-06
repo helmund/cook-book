@@ -1,6 +1,7 @@
 ---
 title: Rosenkohl in Hoisin-Sesam-Marinade auf Reis
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rosenkohl-in-hoisin-sesam-marinade-auf-reis-ebc5cab6.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rosenkohl-in-hoisin-sesam-marinade-auf-reis-631b5b522041acf6980dd858
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Spaghetti al Pomodore mit Frischkäse-Nocken
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/wurzige-spaghetti-al-pomodoro-a1b63850.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/spaghetti-al-pomodore-mit-frischkase-nocken-6331c55d6175c2342f0b2d9d
 servings: 2
 time: PT30M

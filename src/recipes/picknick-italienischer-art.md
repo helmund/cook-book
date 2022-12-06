@@ -1,6 +1,7 @@
 ---
 title: Picknick italienischer Art
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/picknick-italienischer-art-6ce97f84.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/picknick-italienischer-art-63282f00c910ae61ea061da8
 servings: 2
 time: PT00M

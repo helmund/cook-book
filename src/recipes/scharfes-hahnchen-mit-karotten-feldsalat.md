@@ -1,6 +1,7 @@
 ---
 title: Scharfes Hähnchen mit Karotten-Feldsalat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/scharfes-hahnchen-mit-karotten-feldsalat-27b7e197.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/scharfes-hahnchen-mit-karotten-feldsalat-6331c517b8ec50367d07c0f9
 servings: 2
 time: PT45M

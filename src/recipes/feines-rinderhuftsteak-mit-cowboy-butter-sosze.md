@@ -1,7 +1,8 @@
 ---
 title: Feines Rinderhüftsteak mit Cowboy-Butter-Soße
-image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/feines-rinderhuftsteak-mit-cowboy-butter-sosze-38580729.jpg'
-sourceURL: https://www.hellofresh.de/recipes/feines-rinderhuftsteak-mit-cowboy-butter-sosze-6331c52f0b73b5292100b234
+image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/feines-rinderhuftsteak-mit-cowboy-butter-sosze-c44156ec.jpg'
+sourceLabel: Hellofresh
+sourceURL: https://www.hellofresh.de/recipes/feines-rinderhuftsteak-mit-cowboy-butter-sosze-63171dcac72379bfe20b0732
 servings: 2
 time: PT35M
 tags:
@@ -16,7 +17,7 @@ ingredients:
 - 1 Stück Knoblauchzehe
 - 2 g Gewürzmischung „Hello Cajun“
 - 10 g Petersilie
-- 75 g Salatmischung
+- 50 g Salatmischung
 - 125 g Kirschtomaten
 - 50 ml Wasser*
 - 3 Esslöffel Öl*
@@ -29,4 +30,4 @@ ingredients:
 - Rindersteak quer in je 1 Steak pro Person zerteilen und von beiden Seiten salzen\*.  In einer große Pfanne 1 EL [1,5 EL | 2 EL] Öl\* erhitzen. Steaks auf jeder 3 – 4 Min. braten. Rindersteaks danach in Aluminiumfolie wickeln, beiseitelegen und mindestens 10 Min. ruhen lassen.
 - In derselben großen Pfanne 1 EL [1,5 EL | 2 EL] Öl\* erhitzen und Zwiebelringe darin 4 – 5 Min anbraten. Anschließend mit Balsamico-Crème ablöschen, Hitze reduzieren und 1 Min. weiterbraten, bis die Zwiebeln leicht karamellisiert sind. Zwiebeln aus der Pfanne nehmen und beiseitelegen.  Pfanne auswischen.
 - In derselben Pfanne bei mittlerer Hitze 2 EL [3 EL | 4 EL] Butter\* erhitzen. Knoblauch hinzufügen und 1 Min. farblos anschwitzen. Pfanne mit restlichem Honig-Senf-Dressing ablöschen.  Gewürzmischung „Hello Cajun“ und gehackte Petersilie hineinrühren und alles zusammen unter Rühren 1 Min. köcheln lassen, bis die Soße dickflüssig genug ist. Mit Salz\* und Pfeffer\* abschmecken.
-- Salat und Kirschtomaten in die Schüssel mit dem Dressing geben und gut vermengen. Ofenkartoffeln, Salat und Steak auf Teller anrichten. Steak mit Balsamicozwiebeln garnieren und die Cowboy-Butter-Soße dazureichen. Guten Appetit!
+- Salat und Kirschtomaten in die Schüssel mit dem Dressing geben und gut vermengen. Ofenkartoffeln, Salat und Steak auf Tellern anrichten. Steak mit Balsamicozwiebeln garnieren und die Cowboy-Butter-Soße dazureichen. Guten Appetit!

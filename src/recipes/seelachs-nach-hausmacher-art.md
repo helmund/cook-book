@@ -1,6 +1,7 @@
 ---
 title: Seelachs nach Hausmacher Art
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/seelachs-nach-hausmacher-art-fd3c17f1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/seelachs-nach-hausmacher-art-63171e06c1eb85295c071eec
 servings: 2
 time: PT35M

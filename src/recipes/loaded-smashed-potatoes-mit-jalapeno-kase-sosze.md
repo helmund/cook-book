@@ -1,6 +1,7 @@
 ---
 title: Loaded Smashed Potatoes!
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/loaded-smashed-potatoes-mit-jalapeno-kase-sosze-bf1c29e4.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/loaded-smashed-potatoes-mit-jalapeno-kase-sosze-6331c4fe5114df09210fc926
 servings: 2
 time: PT35M

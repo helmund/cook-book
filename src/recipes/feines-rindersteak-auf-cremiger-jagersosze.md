@@ -1,6 +1,7 @@
 ---
 title: Feines Rindersteak auf cremiger Jägersoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/feines-rindersteak-auf-cremiger-jagersosze-0b0fb594.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/feines-rindersteak-auf-cremiger-jagersosze-62f0fcba6d083650fb079209
 servings: 2
 time: PT35M

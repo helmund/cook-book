@@ -1,6 +1,7 @@
 ---
 title: Oktoberfest-Teller
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/oktoberfest-teller-a7d1ff4c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/oktoberfest-teller-62ebad7c792e632f1a073b8a
 servings: 2
 time: PT10M

@@ -1,6 +1,7 @@
 ---
 title: Wärmende Rosenkohlcremesuppe
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/warmende-rosenkohlcremesuppe-3fd0def1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/warmende-rosenkohlcremesuppe-632c3cc5d1585682c60edaa1
 servings: 2
 time: PT30M

@@ -1,6 +1,7 @@
 ---
 title: null
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/warmende-kichererbsensuppe-mit-mini-fladenbrot-312c6560.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/warmende-kichererbsensuppe-mit-mini-fladenbrot-632c3db41830cc2d1e01cac6
 servings: 2
 time: PT10M

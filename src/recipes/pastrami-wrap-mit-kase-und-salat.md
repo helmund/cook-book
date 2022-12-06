@@ -1,6 +1,7 @@
 ---
 title: Pastrami-Wrap mit Käse und Salat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pastrami-wrap-mit-kase-und-salat-bbe0061f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pastrami-wrap-mit-kase-und-salat-63357b1873be8c4a620b1e66
 servings: 2
 time: PT05M

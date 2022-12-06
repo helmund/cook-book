@@ -1,6 +1,7 @@
 ---
 title: Teriyaki-Hähnchenbrust mit Edamame
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/teriyaki-hahnchenbrust-mit-edamame-6c845aa2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/teriyaki-hahnchenbrust-mit-edamame-63171dc5175e7b29d50ca05a
 servings: 2
 time: PT15M

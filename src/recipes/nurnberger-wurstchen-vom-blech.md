@@ -1,6 +1,7 @@
 ---
 title: Nürnberger Würstchen vom Blech
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/nurnberger-wurstchen-vom-blech-1254f458.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/nurnberger-wurstchen-vom-blech-633192cc72fe48d0df0f0651
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Porree-Spätzle-Pfanne mit Schmelzzwiebeln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/porree-spatzle-pfanne-mit-schmelzzwiebeln-238c7136.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/porree-spatzle-pfanne-mit-schmelzzwiebeln-63282eb37257988db205e6b1
 servings: 2
 time: PT30M

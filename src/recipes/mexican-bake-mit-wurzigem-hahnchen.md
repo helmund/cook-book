@@ -1,6 +1,7 @@
 ---
 title: Mexican Bake mit würzigem Hähnchen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mexican-bake-mit-wurzigem-hahnchen-259852ab.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mexican-bake-mit-wurzigem-hahnchen-630cb72de5fdb210060c9665
 servings: 2
 time: PT35M

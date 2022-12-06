@@ -1,6 +1,7 @@
 ---
 title: Fischfilet Finkenwerder Art mit Speckwürfeln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fischfilet-finkenwerder-art-mit-speckwurfeln-af2ddd69.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fischfilet-finkenwerder-art-mit-speckwurfeln-63282e28e13fe18cf90cf676
 servings: 2
 time: PT35M

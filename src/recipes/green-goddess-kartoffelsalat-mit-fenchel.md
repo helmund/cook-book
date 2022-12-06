@@ -1,6 +1,7 @@
 ---
 title: Green Goddess! Kartoffelsalat mit Fenchel
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/green-goddess-kartoffelsalat-mit-fenchel-5fba42a4.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/green-goddess-kartoffelsalat-mit-fenchel-632c3d71c8771d72c2031ca1
 servings: 2
 time: PT30M

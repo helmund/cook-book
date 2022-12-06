@@ -1,6 +1,7 @@
 ---
 title: Käsige Hackbällchen mit Rahmkohlrabi
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/kasige-hackballchen-mit-rahmkohlrabi-d176c66c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/kasige-hackballchen-mit-rahmkohlrabi-62f6753c1facd49c2307bb7c
 servings: 2
 time: PT35M

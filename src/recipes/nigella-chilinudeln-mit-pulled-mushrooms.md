@@ -1,6 +1,7 @@
 ---
 title: Nigella-Chilinudeln mit Pulled Mushrooms
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/nigella-chilinudeln-mit-pulled-mushrooms-1c0de9fc.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/nigella-chilinudeln-mit-pulled-mushrooms-630cb6f1092f1e17fa00a91e
 servings: 2
 time: PT40M

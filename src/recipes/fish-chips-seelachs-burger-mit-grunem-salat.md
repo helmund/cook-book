@@ -1,6 +1,7 @@
 ---
 title: Fish & Chips! Seelachs-Burger mit grünem Salat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fish-chips-seelachs-burger-mit-grunem-salat-aacabbe6.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fish-chips-seelachs-burger-mit-grunem-salat-62f6756e6a0c6d30a1078c7f
 servings: 2
 time: PT35M

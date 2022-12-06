@@ -1,6 +1,7 @@
 ---
 title: Seehecht mit Linsen-Spinat-Gemüse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/seehecht-mit-linsen-spinat-gemuse-8465bcb2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/seehecht-mit-linsen-spinat-gemuse-63282e6dc4f333ad34079832
 servings: 2
 time: PT35M

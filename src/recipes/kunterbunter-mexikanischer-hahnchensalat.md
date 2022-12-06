@@ -1,6 +1,7 @@
 ---
 title: Kunterbunter mexikanischer Hähnchensalat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/kunterbunter-mexikanischer-hahnchensalat-7363cdd5.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/kunterbunter-mexikanischer-hahnchensalat-632c3d1c01f54c90bb042c81
 servings: 2
 time: PT35M

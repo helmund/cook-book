@@ -1,6 +1,7 @@
 ---
 title: Fettuccine mit Hähnchengeschnetzeltem
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fettuccine-mit-hahnchengeschnetzeltem-1825c73c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fettuccine-mit-hahnchengeschnetzeltem-63282e9a2e888e71c201e0d7
 servings: 2
 time: PT15M

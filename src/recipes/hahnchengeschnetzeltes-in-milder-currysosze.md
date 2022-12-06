@@ -1,6 +1,7 @@
 ---
 title: Hähnchengeschnetzeltes in milder Currysoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchengeschnetzeltes-in-milder-currysosze-03e1f697.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchengeschnetzeltes-in-milder-currysosze-630cb6ac9400e9a66909ba24
 servings: 2
 time: PT35M

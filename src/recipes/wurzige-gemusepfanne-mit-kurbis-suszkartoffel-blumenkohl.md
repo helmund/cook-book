@@ -1,6 +1,7 @@
 ---
 title: Würzige Gemüsepfanne mit Kürbis, Süßkartoffel & Blumenkohl
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/wurzige-gemusepfanne-mit-kurbis-suszkartoffel-blumenkohl-667f71f8.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/wurzige-gemusepfanne-mit-kurbis-suszkartoffel-blumenkohl-63282e9dd4a75454730b8bca
 servings: 2
 time: PT35M

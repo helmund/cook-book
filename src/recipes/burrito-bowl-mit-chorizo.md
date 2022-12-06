@@ -1,6 +1,7 @@
 ---
 title: Burrito-Bowl mit Chorizo
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/burrito-bowl-mit-chorizo-23639f29.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/burrito-bowl-mit-chorizo-634e50ee3525fb885209fbe6
 servings: 2
 time: PT35M

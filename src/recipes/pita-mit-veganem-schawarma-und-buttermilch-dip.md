@@ -1,6 +1,7 @@
 ---
 title: Pita mit veganem Schawarma und Buttermilch-Dip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pita-mit-veganem-schawarma-und-buttermilch-dip-72772174.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pita-mit-veganem-schawarma-und-buttermilch-dip-634e50eae5487c55a504e001
 servings: 2
 time: PT05M

@@ -1,6 +1,7 @@
 ---
 title: Carnitas! Pulled Pork gefüllte Tacos
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/carnitas-pulled-pork-tacos-mit-tomatensalsa-c115c956.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/carnitas-pulled-pork-tacos-mit-tomatensalsa-631b5b8548295e3a0a0155ea
 servings: 2
 time: PT15M

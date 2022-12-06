@@ -1,6 +1,7 @@
 ---
 title: Veganer Schawarma-Teller mit Tahini-Dressing
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/veganer-schawarma-teller-mit-tahini-dressing-67ed1bc0.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/veganer-schawarma-teller-mit-tahini-dressing-62dc3f9bce47a8a054051fd6
 servings: 2
 time: PT40M

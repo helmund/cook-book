@@ -1,6 +1,7 @@
 ---
 title: Mandel-Ziegenkäse auf Linsensalat mit Cranberries
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mandel-ziegenkase-auf-linsensalat-mit-cranberries-8192e13f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mandel-ziegenkase-auf-linsensalat-mit-cranberries-63171d74b8222d63dc09e602
 servings: 2
 time: PT35M

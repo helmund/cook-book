@@ -1,6 +1,7 @@
 ---
 title: Spicy cheesy Gnocchetti mit Jalapeños
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/spicy-cheesy-gnocchetti-mit-jalapenos-fecc3a21.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/spicy-cheesy-gnocchetti-mit-jalapenos-63282e0f72e6f6654105c82c
 servings: 2
 time: PT05M

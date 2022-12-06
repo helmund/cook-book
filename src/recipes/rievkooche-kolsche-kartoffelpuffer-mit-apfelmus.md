@@ -1,6 +1,7 @@
 ---
 title: Rievkooche! Kölsche Kartoffelpuffer mit Apfelmus
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rievkooche-kolsche-kartoffelpuffer-mit-apfelmus-3081ead7.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rievkooche-kolsche-kartoffelpuffer-mit-apfelmus-6331928fac96cd7ce7047232
 servings: 2
 time: PT45M

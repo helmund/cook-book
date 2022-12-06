@@ -1,6 +1,7 @@
 ---
 title: Herbstlicher Eintopf mit Hähnchen und Porree
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/herbstlicher-eintopf-mit-hahnchen-und-porree-97d178f2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/herbstlicher-eintopf-mit-hahnchen-und-porree-632c3d79c8771d72c2031ca5
 servings: 2
 time: PT30M

@@ -1,6 +1,7 @@
 ---
 title: Apple Crumble mit Cranberries und süßem Schmand
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/632c2514061be7ce6808a241-91fd2567.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/apple-crumble-mit-cranberries-und-suszem-schmand-632c2514061be7ce6808a241
 servings: 2
 time: PT40M

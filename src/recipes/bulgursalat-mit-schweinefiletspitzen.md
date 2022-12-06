@@ -1,6 +1,7 @@
 ---
 title: Bulgursalat mit Schweinefiletspitzen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/bulgursalat-mit-schweinefiletspitzen-beaf13e4.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/bulgursalat-mit-schweinefiletspitzen-630cb71dac6d5e0402050f37
 servings: 2
 time: PT15M

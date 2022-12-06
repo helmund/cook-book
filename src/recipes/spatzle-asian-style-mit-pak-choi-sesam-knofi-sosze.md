@@ -1,6 +1,7 @@
 ---
 title: Spätzle asian Style mit Pak Choi & Sesam-Knofi-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/spatzle-asian-style-mit-pak-choi-sesam-knofi-sosze-b743229a.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/spatzle-asian-style-mit-pak-choi-sesam-knofi-sosze-630cb73f19875beaf10fd4cc
 servings: 2
 time: PT35M

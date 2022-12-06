@@ -1,6 +1,7 @@
 ---
 title: Souflaki-Seehecht mit Zitronenkartoffeln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/souflaki-seehecht-mit-zitronenkartoffeln-03a34724.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/souflaki-seehecht-mit-zitronenkartoffeln-632c3d23741f56b51b080857
 servings: 2
 time: PT45M

@@ -1,6 +1,7 @@
 ---
 title: Honig-Harissa-Aubergine aus dem Ofen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/honig-harissa-aubergine-aus-dem-ofen-404eff1a.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/honig-harissa-aubergine-aus-dem-ofen-6331c5094402b81356031ba7
 servings: 2
 time: PT35M

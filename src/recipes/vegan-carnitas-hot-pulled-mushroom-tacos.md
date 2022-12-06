@@ -1,6 +1,7 @@
 ---
 title: Vegan Carnitas! Hot Pulled Mushroom Tacos
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/vegan-carnitas-hot-pulled-mushroom-tacos-60a74fb3.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/vegan-carnitas-hot-pulled-mushroom-tacos-62f6758876780e71000572d4
 servings: 2
 time: PT35M

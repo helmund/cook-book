@@ -1,6 +1,7 @@
 ---
 title: Karibischer Süßkartoffel-Kokos-Eintopf
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/karibischer-suszkartoffeleintopf-mit-banana-pancakes-f98a9232.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/karibischer-suszkartoffeleintopf-mit-banana-pancakes-6331c4f0e2979504b80f4ebb
 servings: 2
 time: PT45M

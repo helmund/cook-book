@@ -1,6 +1,7 @@
 ---
 title: Hähnchen-Reispfanne mit Aprikosen-Minz-Joghurt
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchen-reispfanne-mit-aprikosen-minz-joghurt-70d1194f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchen-reispfanne-mit-aprikosen-minz-joghurt-62f0fcec0bb322db3a078f7d
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Badridschani! Georgische Auberginenrollen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/badridschani-georgische-auberginenrollen-254c0ca1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/badridschani-georgische-auberginenrollen-633192d95a8712c5030bcd36
 servings: 2
 time: PT45M

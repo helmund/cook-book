@@ -1,6 +1,7 @@
 ---
 title: Tuna-Salat mit Hirtenkäse und Butterbohnen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tuna-salat-mit-hirtenkase-und-butterbohnen-3497ab58.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tuna-salat-mit-hirtenkase-und-butterbohnen-63357b4d5badbc1d08084911
 servings: 2
 time: PT05M

@@ -1,6 +1,7 @@
 ---
 title: Fusilli in cremiger Bacon-Käse-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fusilli-in-cremiger-bacon-kase-sosze-a50ca0d1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fusilli-in-cremiger-bacon-kase-sosze-62fbded4530b4a32200759e1
 servings: 2
 time: PT05M

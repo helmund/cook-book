@@ -1,6 +1,7 @@
 ---
 title: Griechischer Orzo-Salat mit Kalamata-Oliven
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/griechischer-orzo-salat-mit-kalamata-oliven-bbe43455.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/griechischer-orzo-salat-mit-kalamata-oliven-62fdff62b67c677fb108551b
 servings: 2
 time: PT30M

@@ -1,6 +1,7 @@
 ---
 title: Honig-gebackener Camembert mit Pekannüssen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/honig-gebackener-camembert-mit-pekannussen-a9086d37.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/honig-gebackener-camembert-mit-pekannussen-632c3cf0e943effe9e067f24
 servings: 2
 time: PT35M

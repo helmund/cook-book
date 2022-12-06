@@ -1,6 +1,7 @@
 ---
 title: Gegrillter Balsamico-Pflaumen-Salat mit Büffel-Mozzarella und Chili-Honig-Vinaigrette
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gegrillter-balsamico-pflaumen-salat-mit-buffel-mozzarella-und-chili-honig-vinaigrette-2917c48f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gegrillter-balsamico-pflaumen-salat-mit-buffel-mozzarella-und-chili-honig-vinaigrette-630cb697e3957658b401a09e
 servings: 2
 time: PT15M

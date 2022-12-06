@@ -1,6 +1,7 @@
 ---
 title: Mais-Käse-Fritters mit zitronigem Kräuterdip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mais-kase-fritters-mit-zitronigem-krauterdip-ce1a7b1c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mais-kase-fritters-mit-zitronigem-krauterdip-63171d6de7d26f2b71022462
 servings: 2
 time: PT40M

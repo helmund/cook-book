@@ -1,6 +1,7 @@
 ---
 title: Caponata-Kartoffel-PfanneAuberginen-Sellerie-Pfanne mit Burrata & Bratkartoffeln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/auberginen-sellerie-pfanne-mit-burrata-bratkartoffeln-22adbd25.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/auberginen-sellerie-pfanne-mit-burrata-bratkartoffeln-633192ce393c533f6300c1dd
 servings: 2
 time: PT30M

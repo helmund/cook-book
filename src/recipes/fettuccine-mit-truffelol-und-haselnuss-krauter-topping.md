@@ -1,6 +1,7 @@
 ---
 title: Fettuccine mit Trüffelöl und Haselnuss-Kräuter-Topping
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fettuccine-mit-truffelol-und-haselnuss-krauter-topping-6368bb21.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fettuccine-mit-truffelol-und-haselnuss-krauter-topping-62fbdf17c1d484735d0d88d4
 servings: 2
 time: PT30M

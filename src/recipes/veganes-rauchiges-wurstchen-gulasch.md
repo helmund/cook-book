@@ -1,6 +1,7 @@
 ---
 title: Veganes rauchiges Würstchen-Gulasch
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/veganes-rauchiges-wurstchen-gulasch-e37a3cc8.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/veganes-rauchiges-wurstchen-gulasch-63171df7931abc287b05a0d2
 servings: 2
 time: PT35M

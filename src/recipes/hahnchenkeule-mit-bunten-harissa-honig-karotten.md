@@ -1,6 +1,7 @@
 ---
 title: Hähnchenkeule mit bunten Harissa-Honig-Karotten
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchenkeule-mit-bunten-harissa-honig-karotten-7a053ec3.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchenkeule-mit-bunten-harissa-honig-karotten-63171dd5837df2d6af04e49b
 servings: 2
 time: PT45M

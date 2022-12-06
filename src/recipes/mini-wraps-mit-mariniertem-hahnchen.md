@@ -1,6 +1,7 @@
 ---
 title: Mini-Wraps mit mariniertem Hähnchen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mini-wraps-mit-mariniertem-hahnchen-c0dc200c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mini-wraps-mit-mariniertem-hahnchen-62fbdf3f27c6ba0b6f00fc1e
 servings: 2
 time: PT15M

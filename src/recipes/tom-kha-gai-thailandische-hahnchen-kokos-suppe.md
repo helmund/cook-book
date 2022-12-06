@@ -1,6 +1,7 @@
 ---
 title: Tom Kha Gai! Thailändische Hähnchen-Kokos-Suppe
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tom-kha-gai-thailandische-hahnchen-kokos-suppe-b415614f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tom-kha-gai-thailandische-hahnchen-kokos-suppe-631b5b0778f27a8fad05f337
 servings: 2
 time: PT30M

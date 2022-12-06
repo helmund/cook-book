@@ -1,6 +1,7 @@
 ---
 title: Schweinefilet mit Linsen-Spinat-Gemüse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schweinefilet-mit-linsen-spinat-gemuse-6cad75c2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schweinefilet-mit-linsen-spinat-gemuse-62dc3f6776acb39d93033595
 servings: 2
 time: PT35M

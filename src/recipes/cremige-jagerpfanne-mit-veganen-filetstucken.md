@@ -1,6 +1,7 @@
 ---
 title: Cremige Jägerpfanne mit veganen Filetstücken
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/cremige-jagerpfanne-mit-veganen-filetstucken-e5dc1aea.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/cremige-jagerpfanne-mit-veganen-filetstucken-632c3d63e76b69f53b03c0ba
 servings: 2
 time: PT30M

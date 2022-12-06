@@ -1,6 +1,7 @@
 ---
 title: Gyros mit griechischem Salat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gyros-mit-griechischem-salat-2a76ec7c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gyros-mit-griechischem-salat-631b5b63049979d43809c7ca
 servings: 2
 time: PT45M

@@ -1,6 +1,7 @@
 ---
 title: Tajine mit Aubergine, Aprikose & Kichererbsen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tajine-mit-aubergine-aprikose-kichererbsen-c7075b57.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tajine-mit-aubergine-aprikose-kichererbsen-62f0fc7da59f4b20e40f2a1d
 servings: 2
 time: PT35M

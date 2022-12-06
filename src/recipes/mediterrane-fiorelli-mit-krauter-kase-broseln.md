@@ -1,6 +1,7 @@
 ---
 title: Mediterrane Fiorelli mit Kräuter-Käse-Bröseln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mediterrane-fiorelli-mit-krauter-kase-broseln-c7ffbcc6.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mediterrane-fiorelli-mit-krauter-kase-broseln-62f6750adbe631d86b0a73c9
 servings: 2
 time: PT35M

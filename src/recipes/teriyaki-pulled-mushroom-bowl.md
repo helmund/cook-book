@@ -1,6 +1,7 @@
 ---
 title: Teriyaki Pulled Mushroom Bowl!
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/teriyaki-pulled-mushroom-bowl-4e3b89f0.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/teriyaki-pulled-mushroom-bowl-62f0fc8b6e62e9d2f90d55c9
 servings: 2
 time: PT40M

@@ -1,6 +1,7 @@
 ---
 title: Ricotta-Tortellini in cremiger Paprik-Tomaten-Suppe
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/ricotta-tortellini-in-cremiger-paprika-tomaten-suppe-44fdac6b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/ricotta-tortellini-in-cremiger-paprika-tomaten-suppe-631b5b9790f834110a001749
 servings: 2
 time: PT25M

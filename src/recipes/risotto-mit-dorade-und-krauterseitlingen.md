@@ -1,6 +1,7 @@
 ---
 title: Risotto mit Dorade und Kräuterseitlingen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/risotto-mit-dorade-und-krauterseitlingen-33d0de07.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/risotto-mit-dorade-und-krauterseitlingen-630cb737ad10eec5c00af5ad
 servings: 2
 time: PT35M

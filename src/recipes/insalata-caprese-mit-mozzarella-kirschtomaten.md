@@ -1,6 +1,7 @@
 ---
 title: Insalata Caprese! mit Mozzarella & Kirschtomaten
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/insalata-caprese-mit-mozzarella-kirschtomaten-ae9a829b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/insalata-caprese-mit-mozzarella-kirschtomaten-62f67566af93490a9f0cecbd
 servings: 2
 time: PT35M

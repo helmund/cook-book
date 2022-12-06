@@ -1,6 +1,7 @@
 ---
 title: Mini-Maultaschen mit Bacon und Kresse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mini-maultaschen-mit-bacon-und-kresse-20bc44cd.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mini-maultaschen-mit-bacon-und-kresse-631b5b822aa706bc0d06958d
 servings: 2
 time: PT15M

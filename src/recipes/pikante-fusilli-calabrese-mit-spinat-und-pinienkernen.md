@@ -1,6 +1,7 @@
 ---
 title: Pikante Fusilli Calabrese
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pikante-fusilli-calabrese-mit-spinat-und-pinienkernen-da284958.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pikante-fusilli-calabrese-mit-spinat-und-pinienkernen-630cb7592c6098bd1100f339
 servings: 2
 time: PT30M

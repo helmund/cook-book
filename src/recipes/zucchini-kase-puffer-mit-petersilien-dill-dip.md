@@ -1,6 +1,7 @@
 ---
 title: Zucchini-Käse-Puffer mit Petersilien-Dill-Dip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/zucchini-kase-puffer-mit-petersilien-dill-dip-712708d8.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/zucchini-kase-puffer-mit-petersilien-dill-dip-63282e664d55d71c0301e72a
 servings: 2
 time: PT35M

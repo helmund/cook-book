@@ -1,6 +1,7 @@
 ---
 title: Hähnchensalat nach Waldorf-Art mit Croûtons
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchensalat-nach-waldorf-art-mit-croutons-2ab824ea.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchensalat-nach-waldorf-art-mit-croutons-630cb6fed2ff1c27b40e9fe0
 servings: 2
 time: PT35M

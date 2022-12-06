@@ -1,12 +1,14 @@
 ---
 title: Spaghetti mit selbst gemachter Paprikacremesoße
-image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/spaghetti-mit-selbst-gemachter-paprikacremesosze-81ae21b9.jpg'
-sourceURL: https://www.hellofresh.de/recipes/spaghetti-mit-selbst-gemachter-paprikacremesosze-633192740e6ac384880390f9
+image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/spaghetti-mit-selbst-gemachter-paprikacremesosze-322a93d3.jpg'
+sourceLabel: Hellofresh
+sourceURL: https://www.hellofresh.de/recipes/spaghetti-mit-selbst-gemachter-paprikacremesosze-62f0fc60d988f570820c4c13
 servings: 2
 time: PT30M
 tags:
 - Vegetarisch
 - Family
+- Klimaheld
 ingredients:
 - 270 g Spaghetti
 - 2 Stück rote Spitzpaprika

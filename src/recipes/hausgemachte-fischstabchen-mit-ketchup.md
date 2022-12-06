@@ -1,6 +1,7 @@
 ---
 title: Hausgemachte Fischstäbchen mit Ketchup
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hausgemachte-fischstabchen-mit-ketchup-49e15d52.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hausgemachte-fischstabchen-mit-ketchup-6331c4ce4ecc1885fd06f290
 servings: 2
 time: PT35M

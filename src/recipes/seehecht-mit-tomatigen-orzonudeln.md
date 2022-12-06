@@ -1,6 +1,7 @@
 ---
 title: Seehecht mit tomatigen Orzonudeln
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/seehecht-mit-tomatigen-orzonudeln-553b1211.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/seehecht-mit-tomatigen-orzonudeln-62f0fc4447b4af40ab066b22
 servings: 2
 time: PT35M

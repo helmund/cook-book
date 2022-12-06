@@ -1,6 +1,7 @@
 ---
 title: Zarter Lachs mit geschmorter Gurke
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/zarter-lachs-mit-geschmorter-gurke-c900857b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/zarter-lachs-mit-geschmorter-gurke-633192c289a1197a6909999e
 servings: 2
 time: PT35M

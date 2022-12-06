@@ -1,6 +1,7 @@
 ---
 title: Frühstücksquartett
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/fruhstucksquartett-1ca84220.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/fruhstucksquartett-630cb76a7c45d984fa0a53e3
 servings: 2
 time: PT10M

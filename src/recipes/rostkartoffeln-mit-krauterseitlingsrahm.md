@@ -1,6 +1,7 @@
 ---
 title: Röstkartoffeln mit Kräuterseitlingsrahm
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rostkartoffeln-mit-krauterseitlingsrahm-988ac4e5.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rostkartoffeln-mit-krauterseitlingsrahm-62f0fce188110961420e6fca
 servings: 2
 time: PT40M

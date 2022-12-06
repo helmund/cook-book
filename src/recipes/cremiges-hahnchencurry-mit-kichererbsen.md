@@ -1,6 +1,7 @@
 ---
 title: Cremiges Hähnchencurry mit Kichererbsen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/cremiges-hahnchencurry-mit-kichererbsen-5a3a7e11.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/cremiges-hahnchencurry-mit-kichererbsen-63282e89c92fceea070a000a
 servings: 2
 time: PT15M

@@ -1,6 +1,7 @@
 ---
 title: Gigantes Plaki! Riesenbohnen mit Grillkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gigantes-plaki-riesenbohnen-mit-grillkase-98b60484.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gigantes-plaki-riesenbohnen-mit-grillkase-62f675365bcd319bf5011c04
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Maxi-Tortelli mit Ricotta-Füllung
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/maxi-tortelli-mit-tomate-mozzarella-fullung-6dd48c4f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/maxi-tortelli-mit-tomate-mozzarella-fullung-63282e59c910ae61ea061d94
 servings: 2
 time: PT35M

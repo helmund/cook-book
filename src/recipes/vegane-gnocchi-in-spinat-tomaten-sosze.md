@@ -1,6 +1,7 @@
 ---
 title: Vegane Gnocchi in Spinat-Tomaten-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/vegane-gnocchi-in-spinat-tomaten-sosze-cd131ab2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/vegane-gnocchi-in-spinat-tomaten-sosze-632c3d5c5a8712c5030bcb7d
 servings: 2
 time: PT35M

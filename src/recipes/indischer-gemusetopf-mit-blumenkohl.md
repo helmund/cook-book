@@ -1,6 +1,7 @@
 ---
 title: Indischer Gemüsetopf mit Blumenkohl
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/indischer-gemusetopf-mit-blumenkohl-d55c2d57.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/indischer-gemusetopf-mit-blumenkohl-62fbdf2a426acbca87073c5f
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Porreetarte mit Senf und Schnittlauch-Dip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/porreetarte-mit-senf-und-schnittlauch-dip-05af94c9.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/porreetarte-mit-senf-und-schnittlauch-dip-62fbdf1008be66aa2604b82e
 servings: 2
 time: PT40M

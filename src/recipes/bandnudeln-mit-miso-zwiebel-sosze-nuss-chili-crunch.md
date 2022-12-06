@@ -1,6 +1,7 @@
 ---
 title: Bandnudeln mit Miso-Zwiebel-Soße & Nuss-Chili-Crunch
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/bandnudeln-mit-miso-zwiebel-sosze-nuss-chili-crunch-cf3c1d19.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/bandnudeln-mit-miso-zwiebel-sosze-nuss-chili-crunch-631b5b5ff4510e12ad0d6387
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: BBQ-Burger mit Bacon und Käse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/bbq-burger-mit-bacon-und-kase-f1afb6f2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/bbq-burger-mit-bacon-und-kase-630cb71b1fbe0b45c1051eb8
 servings: 2
 time: PT15M

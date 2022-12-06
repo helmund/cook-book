@@ -1,6 +1,7 @@
 ---
 title: Schweinefilet mit würziger Aprikosensoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schweinefilet-mit-wurziger-aprikosensosze-83e103bf.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schweinefilet-mit-wurziger-aprikosensosze-633192ae4f3a3276870c9530
 servings: 2
 time: PT35M

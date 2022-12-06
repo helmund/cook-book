@@ -1,6 +1,7 @@
 ---
 title: Orzotto mit Mozzarella und rauchigen Pilzen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/orzotto-mit-mozzarella-und-rauchigen-pilzen-51bf2100.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/orzotto-mit-mozzarella-und-rauchigen-pilzen-62ea9da488249da10e0d4ffe
 servings: 2
 time: PT35M

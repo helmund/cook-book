@@ -1,6 +1,7 @@
 ---
 title: Bulgursalat mit Honig-Ziegenkäse-Crumble
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/bulgursalat-mit-honig-ziegenkase-crumble-01068b6b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/bulgursalat-mit-honig-ziegenkase-crumble-62f67549eacfc7aa090ed65f
 servings: 2
 time: PT45M

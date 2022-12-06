@@ -1,6 +1,7 @@
 ---
 title: Ofen-Kürbis mit Büffelmozzarella & Chili-Honig-Dressing
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/632c241cc8771d72c2031c9c-4fd79e4b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/ofen-kurbis-mit-buffelmozzarella-chili-honig-dressing-632c241cc8771d72c2031c9c
 servings: 2
 time: PT35M

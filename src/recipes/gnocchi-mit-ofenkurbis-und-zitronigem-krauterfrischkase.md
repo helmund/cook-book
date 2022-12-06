@@ -1,6 +1,7 @@
 ---
 title: Gnocchi mit Ofenkürbis und zitronigem Kräuterfrischkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gnocchi-mit-ofenkurbis-und-zitronigem-krauterfrischkase-42ee5d8c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gnocchi-mit-ofenkurbis-und-zitronigem-krauterfrischkase-63319282c59683d31403c666
 servings: 2
 time: PT35M

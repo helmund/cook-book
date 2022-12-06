@@ -1,6 +1,7 @@
 ---
 title: Tortillas mit Bohnen-Mail-Füllung aus dem Ofen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tortillas-mit-bohnen-mais-fullung-aus-dem-ofen-bfd61534.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tortillas-mit-bohnen-mais-fullung-aus-dem-ofen-63357ec9634fe03b7706ea31
 servings: 2
 time: PT30M

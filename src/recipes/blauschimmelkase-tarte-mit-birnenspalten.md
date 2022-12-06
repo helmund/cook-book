@@ -1,6 +1,7 @@
 ---
 title: Blauschimmelkäse-Tarte mit Birnenspalten
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tarte-mit-blauschimmelkase-und-birne-6bd8ca6f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/blauschimmelkase-tarte-mit-birnenspalten-633192cf03e9666f9b0c838e
 servings: 2
 time: PT30M

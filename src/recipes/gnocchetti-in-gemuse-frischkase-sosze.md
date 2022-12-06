@@ -1,6 +1,7 @@
 ---
 title: Gnocchetti in Gemüse-Frischkäse-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gnocchetti-in-gemuse-frischkase-sosze-cff1b5d5.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gnocchetti-in-gemuse-frischkase-sosze-63282ec25a4930eb4600a412
 servings: 2
 time: PT20M

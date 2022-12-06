@@ -1,6 +1,7 @@
 ---
 title: Krustenbraten mit dunkler Pflaumen-Zwiebel-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/krustenbraten-mit-dunkler-pflaumen-zwiebel-sosze-564175ba.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/krustenbraten-mit-dunkler-pflaumen-zwiebel-sosze-632c3d4380d18d6de807ad5e
 servings: 2
 time: PT110M

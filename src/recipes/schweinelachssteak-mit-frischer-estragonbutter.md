@@ -1,6 +1,7 @@
 ---
 title: Schweinelachssteak mit frischer Estragonbutter
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schweinelachssteak-mit-frischer-estragonbutter-227d89dd.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schweinelachssteak-mit-frischer-estragonbutter-6331c4b7e04088e91a0d47b2
 servings: 2
 time: PT35M

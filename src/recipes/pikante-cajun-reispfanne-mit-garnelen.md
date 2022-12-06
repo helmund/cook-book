@@ -1,6 +1,7 @@
 ---
 title: Pikante Cajun Reispfanne mit Garnelen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pikante-cajun-reispfanne-mit-garnelen-7afc8a45.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pikante-cajun-reispfanne-mit-garnelen-6331c53a03e9666f9b0c839e
 servings: 2
 time: PT40M

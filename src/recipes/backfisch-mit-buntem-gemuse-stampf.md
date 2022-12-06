@@ -1,6 +1,7 @@
 ---
 title: Backfisch mit buntem Gemüse-Stampf
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/backfisch-mit-buntem-gemuse-stampf-af7d3813.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/backfisch-mit-buntem-gemuse-stampf-63319257f9fd32b73f0f55ed
 servings: 2
 time: PT35M

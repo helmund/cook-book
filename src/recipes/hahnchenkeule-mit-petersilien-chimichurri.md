@@ -1,6 +1,7 @@
 ---
 title: Hähnchenkeule mit Petersilien-Chimichurri
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchenkeule-mit-petersilien-chimichurri-6eda99d5.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchenkeule-mit-petersilien-chimichurri-633192667bcdffe9ef0119b9
 servings: 2
 time: PT45M

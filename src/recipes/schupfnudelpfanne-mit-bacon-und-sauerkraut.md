@@ -1,6 +1,7 @@
 ---
 title: Schupfnudelpfanne mit Bacon und Sauerkraut
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schupfnudelpfanne-mit-bacon-und-sauerkraut-e62c1720.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schupfnudelpfanne-mit-bacon-und-sauerkraut-63171dfe8b97260b2f097372
 servings: 2
 time: PT15M

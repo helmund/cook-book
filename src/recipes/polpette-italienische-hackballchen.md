@@ -1,6 +1,7 @@
 ---
 title: Polpette! Italienische Hackbällchen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/polpette-italienische-hackballchen-b0123404.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/polpette-italienische-hackballchen-632c3d4a77c8202a20056c2f
 servings: 2
 time: PT40M

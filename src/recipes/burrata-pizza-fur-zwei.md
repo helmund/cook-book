@@ -1,6 +1,7 @@
 ---
 title: Burrata Pizza für zwei
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/burrata-pizza-fur-zwei-2f7dd064.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/burrata-pizza-fur-zwei-630cb7999c3a9b2f8609af9d
 servings: 2
 time: PT180M

@@ -1,6 +1,7 @@
 ---
 title: American Bowl! mit Hähnchen und Avocado
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/american-bowl-mit-hahnchen-und-avocado-2b1bcb24.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/american-bowl-mit-hahnchen-und-avocado-6331c52431ed09fe3a0374e7
 servings: 2
 time: PT25M

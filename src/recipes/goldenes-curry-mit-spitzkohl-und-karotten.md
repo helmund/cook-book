@@ -1,6 +1,7 @@
 ---
 title: Goldenes Curry mit Spitzkohl und Karotten
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/goldenes-curry-mit-spitzkohl-und-karotten-d216243b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/goldenes-curry-mit-spitzkohl-und-karotten-62f0fc92086989a56b06c1b3
 servings: 2
 time: PT40M

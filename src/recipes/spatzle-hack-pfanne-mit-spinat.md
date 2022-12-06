@@ -1,6 +1,7 @@
 ---
 title: Spätzle-Hack-Pfanne mit Spinat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/spatzle-hack-pfanne-mit-spinat-fd2587db.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/spatzle-hack-pfanne-mit-spinat-62dc3f89a6b81fc6a80c451d
 servings: 2
 time: PT15M

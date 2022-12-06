@@ -1,6 +1,7 @@
 ---
 title: Hähnchenbrust und Gnocchi aus der Pfanne
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchenbrust-und-gnocchi-aus-der-pfanne-b205457b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchenbrust-und-gnocchi-aus-der-pfanne-632c3d39944f22c503004f25
 servings: 2
 time: PT15M

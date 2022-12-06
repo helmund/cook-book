@@ -1,6 +1,7 @@
 ---
 title: Rigatoni alla Norma! Sizilianische Pasta
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rigatoni-alla-norma-sizilianische-pasta-3106b618.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rigatoni-alla-norma-sizilianische-pasta-6331c54a0b73b5292100b238
 servings: 2
 time: PT45M

@@ -1,6 +1,7 @@
 ---
 title: Panierter Blumenkohl mit Kräuterdip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/panierter-blumenkohl-mit-krauterdip-306c5af0.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/panierter-blumenkohl-mit-krauterdip-632c3d15ccf6fc20ae05131c
 servings: 2
 time: PT35M

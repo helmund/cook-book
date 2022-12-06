@@ -1,6 +1,7 @@
 ---
 title: Gnocchi-Salat mit selbst gemachtem Caesar Dressing
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gnocchi-salat-mit-selbst-gemachtem-caesar-dressing-b7f11f48.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gnocchi-salat-mit-selbst-gemachtem-caesar-dressing-63171d929f0dccda940f2b02
 servings: 2
 time: PT35M

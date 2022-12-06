@@ -1,6 +1,7 @@
 ---
 title: Knoblauchbaguette mit Sour-Cream-Dip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/knoblauchbaguette-mit-sour-cream-dip-abb15001.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/knoblauchbaguette-mit-sour-cream-dip-6331c4b0f1f524935909a987
 servings: 2
 time: PT30M

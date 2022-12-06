@@ -1,6 +1,7 @@
 ---
 title: Bowl mit smashed Sweetpotato & Avocadostreifen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/bowl-mit-smashed-sweetpotato-avocadostreifen-4d7fad79.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/bowl-mit-smashed-sweetpotato-avocadostreifen-630cb7062c6098bd1100f331
 servings: 2
 time: PT35M

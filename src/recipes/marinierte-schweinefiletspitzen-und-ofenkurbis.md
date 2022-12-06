@@ -1,6 +1,7 @@
 ---
 title: Marinierte Schweinefiletspitzen und Ofenkürbis
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/marinierte-schweinefiletspitzen-und-ofenkurbis-68e4e289.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/marinierte-schweinefiletspitzen-und-ofenkurbis-633192e4080e5339660af8e8
 servings: 2
 time: PT35M

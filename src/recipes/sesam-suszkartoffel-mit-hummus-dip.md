@@ -1,6 +1,7 @@
 ---
 title: Sesam-Süßkartoffel mit Hummus-Dip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/sesam-suszkartoffel-mit-hummus-dip-a04468c5.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/sesam-suszkartoffel-mit-hummus-dip-62f0fccab0d453b9150e70cb
 servings: 2
 time: PT35M

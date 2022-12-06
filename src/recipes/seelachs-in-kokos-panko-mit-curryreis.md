@@ -1,6 +1,7 @@
 ---
 title: Seelachs in Kokos-Panko mit Curryreis
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/seelachs-in-kokos-panko-mit-curryreis-eff8621c.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/seelachs-in-kokos-panko-mit-curryreis-6331c5108013d29e8904d39f
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Filo-Samosas mit würziger Kichererbsen-Füllung
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/filo-samosas-mit-wurziger-kichererbsen-fullung-b7b18a39.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/filo-samosas-mit-wurziger-kichererbsen-fullung-634694ce3c8ea89f000f9033
 servings: 2
 time: PT40M

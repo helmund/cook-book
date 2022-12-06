@@ -1,6 +1,7 @@
 ---
 title: Glasierte asiatische Rindfleischbällchen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/glasierte-asiatische-rindfleischballchen-a1eef77b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/glasierte-asiatische-rindfleischballchen-630cb6c18a62519a790bd929
 servings: 2
 time: PT45M

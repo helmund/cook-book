@@ -1,6 +1,7 @@
 ---
 title: Pikantes Seelachsfilet in Kräutermarinade
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pikantes-seelachsfilet-in-krautermarinade-119abe7d.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pikantes-seelachsfilet-in-krautermarinade-631b5b9a8cae8e985a0232f2
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Rigatoni mit Rinderhackfleisch
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tomatige-rigatoni-mit-rinderhackfleisch-5d6ce36d.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tomatige-rigatoni-mit-rinderhackfleisch-6331c5604ecc1885fd06f294
 servings: 2
 time: PT25M

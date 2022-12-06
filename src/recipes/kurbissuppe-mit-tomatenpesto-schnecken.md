@@ -1,6 +1,7 @@
 ---
 title: Kürbissuppe mit Tomatenpesto-Schnecken
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/kurbissuppe-mit-tomatenpesto-schnecken-a009c69f.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/kurbissuppe-mit-tomatenpesto-schnecken-63282ecab584181916080f91
 servings: 2
 time: PT30M

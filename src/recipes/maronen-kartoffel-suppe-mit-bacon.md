@@ -1,6 +1,7 @@
 ---
 title: Maronen-Kartoffel-Suppe mit Bacon
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/maronen-kartoffel-suppe-mit-bacon-88d0fc37.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/maronen-kartoffel-suppe-mit-bacon-6331c4ac4af8c518fa0f6b47
 servings: 2
 time: PT35M

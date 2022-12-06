@@ -1,6 +1,7 @@
 ---
 title: Indische Kichererbsen-Kokos-Suppe
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/indische-kichererbsen-kokos-suppe-f7a91139.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/indische-kichererbsen-kokos-suppe-62fbdf085f0fc90c830ae171
 servings: 2
 time: PT30M

@@ -1,6 +1,7 @@
 ---
 title: Thai Basil Noodles! dazu grüne Bohnen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/thai-basil-noodles-dazu-grune-bohnen-eba25723.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/thai-basil-noodles-dazu-grune-bohnen-632c3d4e56e2fed94408d8b4
 servings: 2
 time: PT15M

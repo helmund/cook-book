@@ -1,6 +1,7 @@
 ---
 title: Dukkah-Kichererbsen-Salat mit Grillkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/dukkah-kichererbsen-salat-mit-grillkase-a7417277.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/dukkah-kichererbsen-salat-mit-grillkase-63171d3c7402fd5b16074ea9
 servings: 2
 time: PT20M

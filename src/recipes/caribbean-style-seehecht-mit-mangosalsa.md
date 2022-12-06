@@ -1,6 +1,7 @@
 ---
 title: Caribbean Style Seehecht mit Mangosalsa
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/caribbean-style-seehecht-mit-mangosalsa-087c19ec.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/caribbean-style-seehecht-mit-mangosalsa-631b5b7caef8b0efa3016bdf
 servings: 2
 time: PT30M

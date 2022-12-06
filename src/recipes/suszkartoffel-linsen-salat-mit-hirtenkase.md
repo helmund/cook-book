@@ -1,6 +1,7 @@
 ---
 title: Süßkartoffel-Linsen-Salat mit Hirtenkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/suszkartoffel-linsen-salat-mit-hirtenkase-93bbff09.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/suszkartoffel-linsen-salat-mit-hirtenkase-62f0fc2ecac796421000c7e1
 servings: 2
 time: PT35M

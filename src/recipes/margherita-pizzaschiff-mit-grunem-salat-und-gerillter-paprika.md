@@ -1,6 +1,7 @@
 ---
 title: Margherita Pizzaschiff
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/margherita-pizzaschiff-mit-grunem-salat-und-gerillter-paprika-7e873f3b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/margherita-pizzaschiff-mit-grunem-salat-und-gerillter-paprika-632c3d522ed21786b40f344b
 servings: 2
 time: PT35M

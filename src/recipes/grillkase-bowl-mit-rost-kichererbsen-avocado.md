@@ -1,6 +1,7 @@
 ---
 title: Grillkäse-Bowl mit Röst-Kichererbsen & Avocado
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/grillkase-bowl-mit-rost-kichererbsen-avocado-e25b6555.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/grillkase-bowl-mit-rost-kichererbsen-avocado-63282e7c75f861414d0d0695
 servings: 2
 time: PT35M

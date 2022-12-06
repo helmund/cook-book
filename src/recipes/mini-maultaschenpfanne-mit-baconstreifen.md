@@ -1,6 +1,7 @@
 ---
 title: Mini-Maultaschenpfanne mit Baconstreifen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mini-maultaschenpfanne-mit-baconstreifen-5eb52da1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mini-maultaschenpfanne-mit-baconstreifen-62fbdf3c426acbca87073c63
 servings: 2
 time: PT15M

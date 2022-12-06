@@ -1,6 +1,7 @@
 ---
 title: Schnelle Gnocchi mit Tomatenrahm und Salsiccia
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schnelle-gnocchi-mit-tomatenrahm-und-chorizo-6e631ee1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schnelle-gnocchi-mit-tomatenrahm-und-salsiccia-62f67593347bc7127c09d5d3
 servings: 2
 time: PT15M

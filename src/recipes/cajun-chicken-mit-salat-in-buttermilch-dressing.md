@@ -1,6 +1,7 @@
 ---
 title: Cajun-Chicken mit Salat in Buttermilch-Dressing
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/cajun-chicken-mit-salat-in-buttermilch-dressing-f265916b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/cajun-chicken-mit-salat-in-buttermilch-dressing-62dc3f8c20e91ce96007720f
 servings: 2
 time: PT35M

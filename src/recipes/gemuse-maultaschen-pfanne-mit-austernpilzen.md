@@ -1,6 +1,7 @@
 ---
 title: Gemüse-Maultaschen-Pfanne mit Austernpilzen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gemuse-maultaschen-pfanne-mit-austernpilzen-d3e5bbbc.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gemuse-maultaschen-pfanne-mit-austernpilzen-62dc3f43dd682287a00ab42a
 servings: 2
 time: PT35M

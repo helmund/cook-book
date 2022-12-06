@@ -1,6 +1,7 @@
 ---
 title: Schweinefilet mit Knöpfle und Zwiebelsoße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schweinefilet-mit-knopfle-und-zwiebelsosze-a4db9148.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schweinefilet-mit-knopfle-und-zwiebelsosze-630cb6b9b03c4a5f56001b61
 servings: 2
 time: PT40M

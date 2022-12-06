@@ -1,6 +1,7 @@
 ---
 title: Zarter Zitronenlachs mit Kapern-Butter
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/zarter-zitronenlachs-mit-kapern-butter-4333dae7.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/zarter-zitronenlachs-mit-kapern-butter-63282e8f87a1da22b3098396
 servings: 2
 time: PT35M

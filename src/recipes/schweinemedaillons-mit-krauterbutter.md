@@ -1,6 +1,7 @@
 ---
 title: Schweinemedaillons mit Kräuterbutter
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schweinemedaillons-mit-krauterbutter-391acad8.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schweinemedaillons-mit-krauterbutter-62dc3f7c8c94db84b302d580
 servings: 2
 time: PT15M

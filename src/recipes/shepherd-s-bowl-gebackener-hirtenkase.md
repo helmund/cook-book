@@ -1,6 +1,7 @@
 ---
 title: Shepherd's Bowl! Gebackener Hirtenkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/shepherd-s-bowl-gebackener-hirtenkase-cfa37778.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/shepherd-s-bowl-gebackener-hirtenkase-6331c51dea90f398420b39f7
 servings: 2
 time: PT35M

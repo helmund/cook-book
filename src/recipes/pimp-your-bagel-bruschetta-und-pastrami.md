@@ -1,6 +1,7 @@
 ---
 title: Bagel Bundle mit Pastrami und Bruschetta-Dip
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/pimp-your-bagel-bruschetta-und-pastrami-2d3d581b.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/pimp-your-bagel-bruschetta-und-pastrami-632086178321cacf8b041aae
 servings: 2
 time: PT06M

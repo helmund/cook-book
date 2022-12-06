@@ -1,6 +1,7 @@
 ---
 title: Grillkäse-Wrap mit cremigem Chimichurri
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/grillkase-wrap-mit-cremigem-chimichurri-c819d4a1.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/grillkase-wrap-mit-cremigem-chimichurri-63342bb6d96187641008e204
 servings: 2
 time: PT35M

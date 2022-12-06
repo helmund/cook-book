@@ -1,6 +1,7 @@
 ---
 title: Rauchiges Süßkartoffel-Chili mit Babyspinat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/rauchiges-suszkartoffel-chili-mit-babyspinat-1e6d9e54.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/rauchiges-suszkartoffel-chili-mit-babyspinat-63282eba2d7e43026a016afa
 servings: 2
 time: PT35M

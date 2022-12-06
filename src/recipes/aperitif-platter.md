@@ -1,6 +1,7 @@
 ---
 title: Aperitif Platter
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/aperitif-platter-e84f763e.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/aperitif-platter-630cb783aa84c2733c02f682
 servings: 2
 time: PT06M

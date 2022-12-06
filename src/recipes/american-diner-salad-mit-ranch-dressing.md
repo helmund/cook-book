@@ -1,6 +1,7 @@
 ---
 title: American Diner Salad mit Ranch Dressing
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/american-diner-salad-mit-ranch-dressing-709f2924.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/american-diner-salad-mit-ranch-dressing-62fbdec9f3b9ca370e0fcc67
 servings: 2
 time: PT20M

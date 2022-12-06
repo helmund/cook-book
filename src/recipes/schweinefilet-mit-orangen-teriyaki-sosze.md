@@ -1,6 +1,7 @@
 ---
 title: Schweinefilet mit Orangen-Teriyaki-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/schweinefilet-mit-orangen-teriyaki-sosze-e6682e44.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/schweinefilet-mit-orangen-teriyaki-sosze-632c3d32a57b1d6fb8056ce3
 servings: 2
 time: PT35M

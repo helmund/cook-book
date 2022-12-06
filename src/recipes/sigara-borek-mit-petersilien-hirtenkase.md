@@ -1,6 +1,7 @@
 ---
 title: Sigara Börek mit Petersilien-Hirtenkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/sigara-borek-mit-petersilien-hirtenkase-291264a9.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/sigara-borek-mit-petersilien-hirtenkase-632c3ce1daae714b610a48cb
 servings: 2
 time: PT40M

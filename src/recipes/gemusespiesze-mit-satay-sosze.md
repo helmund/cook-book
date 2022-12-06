@@ -1,6 +1,7 @@
 ---
 title: Vegane Gemüsespieße mit Satay-Soße
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gemusespiesze-mit-satay-sosze-c1f21852.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gemusespiesze-mit-satay-sosze-62dc3f4ebdbdb4f35d0a2e5b
 servings: 2
 time: PT35M

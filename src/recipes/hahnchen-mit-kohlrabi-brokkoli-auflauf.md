@@ -1,6 +1,7 @@
 ---
 title: Hähnchen mit Kohlrabi-Brokkoli-Auflauf
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchen-mit-kohlrabi-brokkoli-auflauf-0d0f792a.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchen-mit-kohlrabi-brokkoli-auflauf-632c3ce8649c6026e60412b4
 servings: 2
 time: PT35M

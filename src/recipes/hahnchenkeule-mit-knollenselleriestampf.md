@@ -1,6 +1,7 @@
 ---
 title: Hähnchenkeule mit Knollenselleriestampf
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchenkeule-mit-knollenselleriestampf-747388d9.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchenkeule-mit-knollenselleriestampf-62fbdf20a22766e1b606640d
 servings: 2
 time: PT45M

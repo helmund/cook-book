@@ -1,6 +1,7 @@
 ---
 title: Griechischer Nudelsalat mit Grillkäse
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/mediterraner-nudelsalat-mit-grillkase-ec4f20be.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/mediterraner-nudelsalat-mit-grillkase-6331c4e9d06779d8b80e2019
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Zarter Lachs mit zitroniger Walnuss-Gremolata
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/zarter-lachs-getoppt-mit-zitroniger-walnuss-gremolata-c8dcf1bd.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/zarter-lachs-mit-zitroniger-walnuss-gremolata-630cb7210b4871f953067d44
 servings: 2
 time: PT35M

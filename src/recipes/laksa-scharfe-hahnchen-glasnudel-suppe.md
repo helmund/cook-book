@@ -1,6 +1,7 @@
 ---
 title: Laksa! Scharfe Hähnchen-Glasnudel-Suppe
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/laksa-scharfe-hahnchen-glasnudel-suppe-c5cb96db.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/laksa-scharfe-hahnchen-glasnudel-suppe-62f675904b7db8e1e40c166d
 servings: 2
 time: PT35M

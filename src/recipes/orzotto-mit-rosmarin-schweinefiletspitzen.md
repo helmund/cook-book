@@ -1,6 +1,7 @@
 ---
 title: Orzotto mit Rosmarin-Schweinefiletspitzen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/orzotto-mit-rosmarin-schweinefiletspitzen-dbe730bb.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/orzotto-mit-rosmarin-schweinefiletspitzen-633192ef1830cc2d1e01cc73
 servings: 2
 time: PT30M

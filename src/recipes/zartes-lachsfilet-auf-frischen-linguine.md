@@ -1,6 +1,7 @@
 ---
 title: Zartes Lachsfilet auf frischen Linguine
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/zartes-lachsfilet-auf-frischen-linguine-83d8f3e2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/zartes-lachsfilet-auf-frischen-linguine-632c3d3f676229ca200361b3
 servings: 2
 time: PT35M

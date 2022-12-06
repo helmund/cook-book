@@ -1,6 +1,7 @@
 ---
 title: BBQ Chicken and Corn Pizzetta
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/bbq-chicken-and-corn-pizzetta-10c5cfc2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/bbq-chicken-and-corn-pizzetta-63341e0fc6cab7f8f6078387
 servings: 2
 time: PT05M

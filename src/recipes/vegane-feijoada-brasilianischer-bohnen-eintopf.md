@@ -1,6 +1,7 @@
 ---
 title: Vegane Feijoada! Brasilianischer Bohnen-Eintopf
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/vegane-feijoada-brasilianischer-bohnen-eintopf-47f37adc.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/vegane-feijoada-brasilianischer-bohnen-eintopf-63171dd9c1eb85295c071ee8
 servings: 2
 time: PT35M

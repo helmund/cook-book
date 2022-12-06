@@ -1,6 +1,7 @@
 ---
 title: Tacos mit BBQ-Hackfleisch und Gouda
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tacos-mit-bbq-hackfleisch-und-gouda-d40a5a1e.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tacos-mit-bbq-hackfleisch-und-gouda-6331c52a09eba1643a03571b
 servings: 2
 time: PT15M

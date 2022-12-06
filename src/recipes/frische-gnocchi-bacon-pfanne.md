@@ -1,6 +1,7 @@
 ---
 title: Frische Gnocchi-Bacon-Pfanne
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/frische-gnocchi-bacon-pfanne-3e4ea195.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/frische-gnocchi-bacon-pfanne-62f0fc67fdeb38d2a3066489
 servings: 2
 time: PT30M

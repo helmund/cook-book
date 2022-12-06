@@ -1,6 +1,7 @@
 ---
 title: Cremige Tomatensuppe mit Basilikumöl
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/cremige-tomatensuppe-mit-basilikumol-0f32e08e.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/cremige-tomatensuppe-mit-basilikumol-6331924c2e21b8a8080dc6a3
 servings: 2
 time: PT25M

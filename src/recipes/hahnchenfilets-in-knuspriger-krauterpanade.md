@@ -1,6 +1,7 @@
 ---
 title: Hähnchenfilets in knuspriger Kräuterpanade
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hahnchenfilets-in-knuspriger-krauterpanade-e7dbea3e.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hahnchenfilets-in-knuspriger-krauterpanade-631b5b31948848c51d0f14e5
 servings: 2
 time: PT35M

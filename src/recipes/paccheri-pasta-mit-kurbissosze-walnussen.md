@@ -1,6 +1,7 @@
 ---
 title: Paccheri Pasta mit Kürbissoße & Walnüssen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/paccheri-pasta-mit-kurbissosze-walnussen-42274942.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/paccheri-pasta-mit-kurbissosze-walnussen-62fbdf628fc7707d50069a8e
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Deftige Rindfleisch-Gulaschsuppe mit Ciabatta
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/deftige-rindfleisch-gulaschsuppe-mit-ciabatta-b5e92186.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/deftige-rindfleisch-gulaschsuppe-mit-ciabatta-63282efb76c6ca15f70aa5a3
 servings: 2
 time: PT10M

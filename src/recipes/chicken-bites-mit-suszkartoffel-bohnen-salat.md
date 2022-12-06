@@ -1,6 +1,7 @@
 ---
 title: Chicken Bites mit Süßkartoffel-Bohnen-Salat
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/chicken-bites-mit-suszkartoffel-bohnen-salat-2007aaff.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/chicken-bites-mit-suszkartoffel-bohnen-salat-633192b6e9e238382a057aa5
 servings: 2
 time: PT40M

@@ -1,6 +1,7 @@
 ---
 title: Birnen-Rosinen-Strudel
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/632184662e185e00df071feb-9a46c4e2.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/birnen-rosinen-strudel-632184662e185e00df071feb
 servings: 2
 time: PT30M

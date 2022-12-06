@@ -1,6 +1,7 @@
 ---
 title: Gnocchi-Spinat-Auflauf mit Champignons
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gnocchi-spinat-auflauf-mit-champignons-8081d5c9.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gnocchi-spinat-auflauf-mit-champignons-6331c4f76fa0162c3c0f48f1
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Thai-Curry-Risotto mit Pak Choi und Pilzen
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/thai-curry-risotto-mit-pak-choi-und-pilzen-ea3d3e6d.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/thai-curry-risotto-mit-pak-choi-und-pilzen-62dc3faa400bd9c927055d15
 servings: 2
 time: PT40M

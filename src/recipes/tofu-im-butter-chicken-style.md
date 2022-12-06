@@ -1,6 +1,7 @@
 ---
 title: Tofu im Butter Chicken Style
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/tofu-im-butter-chicken-style-83febe65.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/tofu-im-butter-chicken-style-62f6752ee8466e0bb1053c56
 servings: 2
 time: PT35M

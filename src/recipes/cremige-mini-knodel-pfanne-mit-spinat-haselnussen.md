@@ -1,6 +1,7 @@
 ---
 title: Cremige Mini-Knödel-Pfanne
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/cremige-mini-knodel-pfanne-mit-spinat-haselnussen-8e7451ee.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/cremige-mini-knodel-pfanne-mit-spinat-haselnussen-62fbdef71573aa9da10a12ef
 servings: 2
 time: PT35M

@@ -1,6 +1,7 @@
 ---
 title: Gegrillter Käse-Zwiebel-Dip mit Knoblauchbrot
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/gegrillter-kase-zwiebel-dip-mit-knoblauchbrot-7e1340b7.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/gegrillter-kase-zwiebel-dip-mit-knoblauchbrot-6331924f9576e1d8f00fe328
 servings: 2
 time: PT25M

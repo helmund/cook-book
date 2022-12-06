@@ -1,6 +1,7 @@
 ---
 title: Hirschsteak mit pochierter Birne
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/hirschsteak-mit-pochierter-birne-cd16dffc.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/hirschsteak-mit-pochierter-birne-631b5b9dfbd7ee860b0b8eed
 servings: 2
 time: PT45M

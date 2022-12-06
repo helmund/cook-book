@@ -1,6 +1,7 @@
 ---
 title: Süßsaure Pfanne mit Ananas & Kaiserschoten
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/suszsaure-pfanne-mit-ananas-kaiserschoten-411bebf4.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/suszsaure-pfanne-mit-ananas-kaiserschoten-63282e4b688e87d335076de1
 servings: 2
 time: PT35M

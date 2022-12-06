@@ -1,6 +1,7 @@
 ---
 title: Suppen-Duo mit Ringbrot und Toppings
 image: 'https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_auto,w_2600/hellofresh_s3/image/suppen-duo-mit-ringbrot-und-toppings-91834562.jpg'
+sourceLabel: Hellofresh
 sourceURL: https://www.hellofresh.de/recipes/suppen-duo-mit-ringbrot-und-toppings-63282efdc9bff60a7a00f11a
 servings: 2
 time: PT00M
