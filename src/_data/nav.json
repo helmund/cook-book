@@ -1,12 +1,16 @@
 {
-  "items": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "All recipes",
-      "url": "/recipes/"
-    }
-  ]
+	"items": [
+		{
+			"text": "Home",
+			"url": "/"
+		},
+		{
+			"text": "All recipes",
+			"url": "/recipes/"
+		},
+		{
+			"text": "Weekly",
+			"url": "/weekly/"
+		}
+	]
 }

@@ -11,6 +11,7 @@
                 fetch('/search.json').then(res => res.json()).then(res => {
                     sessionStorage.setItem('searchResults', JSON.stringify(res));
                     searchResults = res;
+                    
                 });
             }
             " @input="

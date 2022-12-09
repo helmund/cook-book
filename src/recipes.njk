@@ -1,0 +1,15 @@
+---
+permalink: recipes.json
+---
+
+[
+    {% for recipe in collections.recipes %}
+        {
+            "title" : "{{ recipe.data.title }}",
+            "url" : "{{ recipe.url }}",
+            "ingredients" : [{% for ingredient in recipe.data.ingredients %}"{{ingredient}}"{% if not loop.last %},{% endif %}
+    {% endfor %}],
+            "image": "{{ recipe.data.image }} "
+        }{% if not loop.last %},{% endif %}
+{% endfor %}
+]

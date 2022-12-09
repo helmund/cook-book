@@ -1,0 +1,32 @@
+---
+bodyClass: mx-auto max-w-5xl
+---
+
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+
+    <main class="no-prose">
+        <div x-data="{
+            recipes: JSON.parse(sessionStorage.getItem('weeklyPlan') ),
+        }">
+            <ul>
+                <template x-for="(recipe, i) in recipes" :key="'recipe' + i">
+                    <li >
+                        <div class="text-2xl font-bold" x-text="recipe.title"></div>
+
+                        <div class="text-sm" x-text="recipe.url"></div>
+                        <ul>
+                            <template x-for="(ingredient, i) in recipe.ingredients" :key="'ingredient' + i">
+                                <li x-text="ingredient"></li>
+                            </template>
+                        </ul>
+                    </li>
+                </template>
+            </ul>
+
+        </div>
+
+    </main>
+
+{% endblock %}
