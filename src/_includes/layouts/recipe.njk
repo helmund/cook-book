@@ -29,7 +29,7 @@ bodyClass: prose mx-auto max-w-5xl
                                 {% if time %}
                                     <span class="flex items-center">
                                         <span class="w-4 h-4 mr-2">{% include "icons/time.svg" %}</span>
-                                        {{ time }}
+                                        {{ time | duration }}
                                     </span>
                                 {% endif %}
                                 {% if not servings == "" %}
