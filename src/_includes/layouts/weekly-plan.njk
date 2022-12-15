@@ -10,13 +10,14 @@ bodyClass: mx-auto max-w-5xl
         <div x-data="{
             recipes: JSON.parse(sessionStorage.getItem('weeklyPlan') ),
         }">
-            <ul>
+            <ul class="gap-4 flex flex-col">
                 <template x-for="(recipe, i) in recipes" :key="'recipe' + i">
-                    <li >
-                        <div class="text-2xl font-bold" x-text="recipe.title"></div>
-
-                        <div class="text-sm" x-text="recipe.url"></div>
-                        <ul>
+                    <li class="group relative border border-gray-200 rounded-sm px-2 py-4">
+                        <a x-bind:href="recipe.url" x-bind:target="'_self'" class="text-2xl font-bold">
+                            <span class="absolute inset-0"></span>
+                            <span x-text="recipe.title"></span>
+                        </a>
+                        <ul class="hidden">
                             <template x-for="(ingredient, i) in recipe.ingredients" :key="'ingredient' + i">
                                 <li x-text="ingredient"></li>
                             </template>
