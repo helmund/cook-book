@@ -19,6 +19,18 @@ module.exports = (config) => {
 		return [...collection.getFilteredByGlob('./src/recipes/*.md')]
 	})
 
+	// config.addCollection('recipesList', (collection) => {
+	// 	return [...collection.getFilteredByGlob('./src/recipes/*.md')]
+	// 		.reverse()
+	// 		.slice(0, 10)
+	// })
+
+	// config.addCollection('recipesPagination', (collection) => {
+	// 	return [...collection.getFilteredByGlob('./src/recipes/*.md')]
+	// 		.reverse()
+	// 		.paginate(10)
+	// })
+
 	config.addCollection('tagList', (collection) => {
 		const tagsSet = new Set()
 		collection.getAll().forEach((item) => {

@@ -12,11 +12,21 @@ bodyClass: mx-auto max-w-5xl
         }">
             <ul class="gap-4 flex flex-col">
                 <template x-for="(recipe, i) in recipes" :key="'recipe' + i">
-                    <li class="group relative border border-gray-200 rounded-sm px-2 py-4">
-                        <a x-bind:href="recipe.url" x-bind:target="'_self'" class="text-2xl font-bold">
+                    <li class="group relative border border-gray-200 rounded-sm px-2 py-4 flex items-center gap-6">
+                        <div class="h-20 w-20 rounded-full overflow-hidden">
+                            <img x-bind:src="recipe.image" class=" "/>
+                        </div>
+                        <a x-bind:href="recipe.url" x-bind:target="'_self'" class="text-2xl text-gray-800 font-sans-serif">
                             <span class="absolute inset-0"></span>
                             <span x-text="recipe.title"></span>
                         </a>
+                        {% if recipe.tags | length %}
+                            <div class="flex overflow-x-auto py-6 mr-6 gap-4">
+                                {% for tag in recipe.tags %}
+                                    <a class=" no-underline text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 whitespace-nowrap bg-green-200 text-green-700 rounded-full c-tag__tag--selected" href="/tags/{{ tag | noEmoji | slug }}">{{ tag }}</a>
+                                {% endfor %}
+                            </div>
+                        {% endif %}
                         <ul class="hidden">
                             <template x-for="(ingredient, i) in recipe.ingredients" :key="'ingredient' + i">
                                 <li x-text="ingredient"></li>

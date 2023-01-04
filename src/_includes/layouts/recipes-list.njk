@@ -55,6 +55,14 @@ bodyClass: mx-auto max-w-5xl
                         {% endif %}
                     {% endfor %}
                 </ul>
+
+                {# {% if recipesPagination.hasPrev %}
+                    <a href="{{ recipesPagination.prev.url }}">Previous</a>
+                {% endif %}
+
+                {% if recipesPagination.hasNext %}
+                    <a href="{{ recipesPagination.next.url }}">Next</a>
+                {% endif %} #}
             </div>
         </section>
         {% if selectedTag %}
@@ -65,7 +73,7 @@ bodyClass: mx-auto max-w-5xl
             </section>
         {% endif %}
 
-        <div class="p-10 flex justify-center">
+        <div class="p-10 flex justify-center fixed inset-x-0 bottom-0">
             {% include 'components/random-button.njk' %}
         </div>
 

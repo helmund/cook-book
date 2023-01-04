@@ -6,21 +6,21 @@ sourceURL: https://www.hellofresh.de/recipes/bbq-hahnchenkeule-mit-butter-maisko
 servings: 2
 time: PT35M
 tags:
-- Family
-- Wenig Vorbereitung
-- Ohne Weizen
+  - Family
+  - Wenig Vorbereitung
+  - Ohne Weizen
 ingredients:
-- 500 g Hähnchenkeule in Kräutermarinade
-- 400 g Kartoffeln (Drillinge)
-- 20 ml BBQ-Soße
-- 1 g Gewürzmischung "Smoky BBQ"
-- 8 ml Sriracha Sauce
-- 8 g Honig
-- 100 g Sahnejoghurt
-- 1 Stück Frühlingszwiebel
-- 400 g Maiskolben (vorgekocht)
-- 1 Esslöffel Öl*
-- 20 g Kräuterbutter
+  - 500 g Hähnchenkeule in Kräutermarinade
+  - 400 g Kartoffeln (Drillinge)
+  - 20 ml BBQ-Soße
+  - 1 g Gewürzmischung Smoky BBQ
+  - 8 ml Sriracha Sauce
+  - 8 g Honig
+  - 100 g Sahnejoghurt
+  - 1 Stück Frühlingszwiebel
+  - 400 g Maiskolben (vorgekocht)
+  - 1 Esslöffel Öl*
+  - 20 g Kräuterbutter
 ---
 
 - Heize den Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vor. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in feine Ringe schneiden.
